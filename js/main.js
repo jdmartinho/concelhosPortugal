@@ -42,7 +42,7 @@ var animationSpeed = 500;
 
 // Return style by tax bracket for provided council name using the concelhosIRS array
 function corConcelho(nome) {
-  if (this.concelhosIRS[nome] == 0.05) {
+  if (concelhosIRS[nome] == 0.05) {
     return fivePercent;
   } else if (concelhosIRS[nome] >= 0.04 && concelhosIRS[nome] < 0.05) {
     return overFourPercent;
@@ -80,5 +80,5 @@ for (var concelhoName in concelhosSVG) {
       document.getElementById('popup').innerHTML = null;
     }, true);
 
-  })(this.concelhosSVG[concelhoName], concelhoName);
+  })(concelhosSVG[concelhoName], concelhoName);
 }
