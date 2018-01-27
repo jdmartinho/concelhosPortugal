@@ -1,0 +1,17 @@
+/* basic positioning */
+.legend {
+  list-style: none;
+}
+.legend li {
+  margin-right: 10px;
+}
+.legend span {
+  border: 1px solid #ccc; float: left; width: 12px; height: 12px; margin: 2px;
+}
+/* your colors */
+.legend .fivePercent { background-color: #358205; }
+.legend .fourPercent { background-color: #8FB822; }
+.legend .threePercent { background-color: #F3EE00; }
+.legend .twoPercent { background-color: #D76804; }
+.legend .onePercent { background-color: #C12818; }
+.legend .zeroPercent { background-color: #801A0F; }
