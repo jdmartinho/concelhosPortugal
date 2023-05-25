@@ -71,13 +71,25 @@ for (var concelhoName in concelhosSVG) {
       concelho.animate(hoverStyle, animationSpeed);
       document.getElementById('popup').style.display = 'block';
       document.getElementById('popup').innerHTML = nome;
-
     }, true);
 
     concelho[0].addEventListener("mouseout", function() {
       concelho.animate(corConcelho(nome), animationSpeed);
       document.getElementById('popup').style.display = 'none';
       document.getElementById('popup').innerHTML = null;
+    }, true);
+
+    concelho[0].addEventListener("click", function() {
+      //concelho.animate(corConcelho(nome), animationSpeed);
+      console.log('clicked the mouse');
+      console.log(nome);
+      var selectedCouncil = councilData.find(council => {
+        return council.municipio == nome;
+      });
+      console.log(selectedCouncil.residentes2021);      
+      document.getElementById('council').style.display = 'block';
+      //document.getElementById('council').innerHTML = 'Hello';
+      document.getElementById('council').innerHTML = selectedCouncil.residentes2021;
     }, true);
 
   })(concelhosSVG[concelhoName], concelhoName);
