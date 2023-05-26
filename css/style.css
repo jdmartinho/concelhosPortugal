@@ -15,3 +15,11 @@
 .legend .twoPercent { background-color: #D76804; }
 .legend .onePercent { background-color: #C12818; }
 .legend .zeroPercent { background-color: #801A0F; }
+
+td {
+  text-align: center;
+}
+
+th {
+  text-align: center;
+}
