@@ -1,4 +1,4 @@
-// The Tax Benefit for each council for 2018
+// The Tax Benefit for each council for 2023
 var concelhosIRS = {};
 concelhosIRS["Abrantes"] = 0.005;
 concelhosIRS["Águeda"] = 0.05;
@@ -8,13 +8,13 @@ concelhosIRS["Albergaria-A-Velha"] = 0.0225;
 concelhosIRS["Albufeira"] = 0.05;
 concelhosIRS["Alcácer Do Sal"] = 0.01;
 concelhosIRS["Alcanena"] = 0;
-concelhosIRS["Alcobaça"] = 0.0125;
-concelhosIRS["Alcochete"] = 0;
+concelhosIRS["Alcobaça"] = 0.025;
+concelhosIRS["Alcochete"] = 0.01;
 concelhosIRS["Alcoutim"] = 0.05;
 concelhosIRS["Alenquer"] = 0.002;
 concelhosIRS["Alfândega Da Fé"] = 0;
 concelhosIRS["Alijó"] = 0;
-concelhosIRS["Aljezur"] = 0.025;
+concelhosIRS["Aljezur"] = 0.05;
 concelhosIRS["Aljustrel"] = 0;
 concelhosIRS["Almada"] = 0;
 concelhosIRS["Almeida"] = 0.02;

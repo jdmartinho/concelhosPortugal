@@ -55,7 +55,8 @@ const councilData = [
         "aguaBalnearSalgadaExcelente2011": 88.4,
         "aguaBalnearSalgadaExcelente2021": 93.5,
         "superficieArdida2011": 0,
-        "superficieArdida2021": 0
+        "superficieArdida2021": 0,
+        "beneficioFiscal2023": 0.012500000000000004
     },
     {
         "unidadeTerritorial": "NUTS I",
@@ -113,7 +114,8 @@ const councilData = [
         "aguaBalnearSalgadaExcelente2011": 89.7,
         "aguaBalnearSalgadaExcelente2021": 96.4,
         "superficieArdida2011": 0.9,
-        "superficieArdida2021": 0.3
+        "superficieArdida2021": 0.3,
+        "beneficioFiscal2023": 0
     },
     {
         "unidadeTerritorial": "NUTS II",
@@ -171,7 +173,8 @@ const councilData = [
         "aguaBalnearSalgadaExcelente2011": 83.3,
         "aguaBalnearSalgadaExcelente2021": 96.3,
         "superficieArdida2011": 2.3,
-        "superficieArdida2021": 0.6
+        "superficieArdida2021": 0.6,
+        "beneficioFiscal2023": 0
     },
     {
         "unidadeTerritorial": "NUTS III",
@@ -229,7 +232,8 @@ const councilData = [
         "aguaBalnearSalgadaExcelente2011": 85.7,
         "aguaBalnearSalgadaExcelente2021": 0,
         "superficieArdida2011": 2.2,
-        "superficieArdida2021": 1
+        "superficieArdida2021": 1,
+        "beneficioFiscal2023": 0.025
     },
     {
         "unidadeTerritorial": "Município",
@@ -287,7 +291,8 @@ const councilData = [
         "aguaBalnearSalgadaExcelente2011": 0,
         "aguaBalnearSalgadaExcelente2021": 0,
         "superficieArdida2011": 1.9,
-        "superficieArdida2021": 1.5
+        "superficieArdida2021": 1.5,
+        "beneficioFiscal2023": 0.020000000000000004
     },
     {
         "unidadeTerritorial": "Município",
@@ -345,7 +350,8 @@ const councilData = [
         "aguaBalnearSalgadaExcelente2011": 75,
         "aguaBalnearSalgadaExcelente2021": 80,
         "superficieArdida2011": 1.3,
-        "superficieArdida2021": 0.1
+        "superficieArdida2021": 0.1,
+        "beneficioFiscal2023": 0
     },
     {
         "unidadeTerritorial": "Município",
@@ -403,7 +409,8 @@ const councilData = [
         "aguaBalnearSalgadaExcelente2011": 0,
         "aguaBalnearSalgadaExcelente2021": 0,
         "superficieArdida2011": 1.9,
-        "superficieArdida2021": 0.9
+        "superficieArdida2021": 0.9,
+        "beneficioFiscal2023": 0
     },
     {
         "unidadeTerritorial": "Município",
@@ -461,7 +468,8 @@ const councilData = [
         "aguaBalnearSalgadaExcelente2011": 0,
         "aguaBalnearSalgadaExcelente2021": 0,
         "superficieArdida2011": 4.2,
-        "superficieArdida2021": 0.6
+        "superficieArdida2021": 0.6,
+        "beneficioFiscal2023": 0.0050000000000000044
     },
     {
         "unidadeTerritorial": "Município",
@@ -519,7 +527,8 @@ const councilData = [
         "aguaBalnearSalgadaExcelente2011": 0,
         "aguaBalnearSalgadaExcelente2021": 0,
         "superficieArdida2011": 2.5,
-        "superficieArdida2021": 1.1
+        "superficieArdida2021": 1.1,
+        "beneficioFiscal2023": 0
     },
     {
         "unidadeTerritorial": "Município",
@@ -577,7 +586,8 @@ const councilData = [
         "aguaBalnearSalgadaExcelente2011": 0,
         "aguaBalnearSalgadaExcelente2021": 0,
         "superficieArdida2011": 1.9,
-        "superficieArdida2021": 1.8
+        "superficieArdida2021": 1.8,
+        "beneficioFiscal2023": 0.010000000000000002
     },
     {
         "unidadeTerritorial": "Município",
@@ -635,7 +645,8 @@ const councilData = [
         "aguaBalnearSalgadaExcelente2011": 0,
         "aguaBalnearSalgadaExcelente2021": 0,
         "superficieArdida2011": 1.9,
-        "superficieArdida2021": 0.4
+        "superficieArdida2021": 0.4,
+        "beneficioFiscal2023": 0.05
     },
     {
         "unidadeTerritorial": "Município",
@@ -693,7 +704,8 @@ const councilData = [
         "aguaBalnearSalgadaExcelente2011": 0,
         "aguaBalnearSalgadaExcelente2021": 0,
         "superficieArdida2011": 3.6,
-        "superficieArdida2021": 1.8
+        "superficieArdida2021": 1.8,
+        "beneficioFiscal2023": 0.025
     },
     {
         "unidadeTerritorial": "Município",
@@ -751,7 +763,8 @@ const councilData = [
         "aguaBalnearSalgadaExcelente2011": 100,
         "aguaBalnearSalgadaExcelente2021": 100,
         "superficieArdida2011": 2.4,
-        "superficieArdida2021": 0.8
+        "superficieArdida2021": 0.8,
+        "beneficioFiscal2023": 0.025
     },
     {
         "unidadeTerritorial": "Município",
@@ -809,7 +822,8 @@ const councilData = [
         "aguaBalnearSalgadaExcelente2011": 0,
         "aguaBalnearSalgadaExcelente2021": 0,
         "superficieArdida2011": 0.1,
-        "superficieArdida2021": 0.1
+        "superficieArdida2021": 0.1,
+        "beneficioFiscal2023": 0.020000000000000004
     },
     {
         "unidadeTerritorial": "NUTS III",
@@ -867,7 +881,8 @@ const councilData = [
         "aguaBalnearSalgadaExcelente2011": 83.3,
         "aguaBalnearSalgadaExcelente2021": 100,
         "superficieArdida2011": 2.2,
-        "superficieArdida2021": 0.3
+        "superficieArdida2021": 0.3,
+        "beneficioFiscal2023": 0.010000000000000002
     },
     {
         "unidadeTerritorial": "Município",
@@ -925,7 +940,8 @@ const councilData = [
         "aguaBalnearSalgadaExcelente2011": 0,
         "aguaBalnearSalgadaExcelente2021": 0,
         "superficieArdida2011": 2.3,
-        "superficieArdida2021": 0.3
+        "superficieArdida2021": 0.3,
+        "beneficioFiscal2023": 0
     },
     {
         "unidadeTerritorial": "Município",
@@ -983,7 +999,8 @@ const councilData = [
         "aguaBalnearSalgadaExcelente2011": 0,
         "aguaBalnearSalgadaExcelente2021": 0,
         "superficieArdida2011": 0.8,
-        "superficieArdida2021": 0.1
+        "superficieArdida2021": 0.1,
+        "beneficioFiscal2023": 0.0025000000000000022
     },
     {
         "unidadeTerritorial": "Município",
@@ -1041,7 +1058,8 @@ const councilData = [
         "aguaBalnearSalgadaExcelente2011": 0,
         "aguaBalnearSalgadaExcelente2021": 0,
         "superficieArdida2011": 5,
-        "superficieArdida2021": 0.2
+        "superficieArdida2021": 0.2,
+        "beneficioFiscal2023": 0.0175
     },
     {
         "unidadeTerritorial": "Município",
@@ -1099,7 +1117,8 @@ const councilData = [
         "aguaBalnearSalgadaExcelente2011": 83.3,
         "aguaBalnearSalgadaExcelente2021": 100,
         "superficieArdida2011": 0.7,
-        "superficieArdida2021": 0
+        "superficieArdida2021": 0,
+        "beneficioFiscal2023": 0
     },
     {
         "unidadeTerritorial": "Município",
@@ -1157,7 +1176,8 @@ const councilData = [
         "aguaBalnearSalgadaExcelente2011": 0,
         "aguaBalnearSalgadaExcelente2021": 0,
         "superficieArdida2011": 0.8,
-        "superficieArdida2021": 0.5
+        "superficieArdida2021": 0.5,
+        "beneficioFiscal2023": 0.0050000000000000044
     },
     {
         "unidadeTerritorial": "Município",
@@ -1215,7 +1235,8 @@ const councilData = [
         "aguaBalnearSalgadaExcelente2011": 0,
         "aguaBalnearSalgadaExcelente2021": 0,
         "superficieArdida2011": 4.4,
-        "superficieArdida2021": 0.6
+        "superficieArdida2021": 0.6,
+        "beneficioFiscal2023": 0
     },
     {
         "unidadeTerritorial": "NUTS III",
@@ -1273,7 +1294,8 @@ const councilData = [
         "aguaBalnearSalgadaExcelente2011": 0,
         "aguaBalnearSalgadaExcelente2021": 0,
         "superficieArdida2011": 3.1,
-        "superficieArdida2021": 1.5
+        "superficieArdida2021": 1.5,
+        "beneficioFiscal2023": 0.011000000000000003
     },
     {
         "unidadeTerritorial": "Município",
@@ -1331,7 +1353,8 @@ const councilData = [
         "aguaBalnearSalgadaExcelente2011": 0,
         "aguaBalnearSalgadaExcelente2021": 0,
         "superficieArdida2011": 2.6,
-        "superficieArdida2021": 2.9
+        "superficieArdida2021": 2.9,
+        "beneficioFiscal2023": 0.030000000000000002
     },
     {
         "unidadeTerritorial": "Município",
@@ -1389,7 +1412,8 @@ const councilData = [
         "aguaBalnearSalgadaExcelente2011": 0,
         "aguaBalnearSalgadaExcelente2021": 0,
         "superficieArdida2011": 4.4,
-        "superficieArdida2021": 1.2
+        "superficieArdida2021": 1.2,
+        "beneficioFiscal2023": 0.020000000000000004
     },
     {
         "unidadeTerritorial": "Município",
@@ -1447,7 +1471,8 @@ const councilData = [
         "aguaBalnearSalgadaExcelente2011": 0,
         "aguaBalnearSalgadaExcelente2021": 0,
         "superficieArdida2011": 2.5,
-        "superficieArdida2021": 0.2
+        "superficieArdida2021": 0.2,
+        "beneficioFiscal2023": 0
     },
     {
         "unidadeTerritorial": "Município",
@@ -1505,7 +1530,8 @@ const councilData = [
         "aguaBalnearSalgadaExcelente2011": 0,
         "aguaBalnearSalgadaExcelente2021": 0,
         "superficieArdida2011": 0.2,
-        "superficieArdida2021": 2.6
+        "superficieArdida2021": 2.6,
+        "beneficioFiscal2023": 0.010000000000000002
     },
     {
         "unidadeTerritorial": "Município",
@@ -1563,7 +1589,8 @@ const councilData = [
         "aguaBalnearSalgadaExcelente2011": 0,
         "aguaBalnearSalgadaExcelente2021": 0,
         "superficieArdida2011": 2.3,
-        "superficieArdida2021": 1.1
+        "superficieArdida2021": 1.1,
+        "beneficioFiscal2023": 0.0025000000000000022
     },
     {
         "unidadeTerritorial": "Município",
@@ -1621,7 +1648,8 @@ const councilData = [
         "aguaBalnearSalgadaExcelente2011": 0,
         "aguaBalnearSalgadaExcelente2021": 0,
         "superficieArdida2011": 7.3,
-        "superficieArdida2021": 2.3
+        "superficieArdida2021": 2.3,
+        "beneficioFiscal2023": 0.05
     },
     {
         "unidadeTerritorial": "Município",
@@ -1679,7 +1707,8 @@ const councilData = [
         "aguaBalnearSalgadaExcelente2011": 0,
         "aguaBalnearSalgadaExcelente2021": 0,
         "superficieArdida2011": 1,
-        "superficieArdida2021": 0.1
+        "superficieArdida2021": 0.1,
+        "beneficioFiscal2023": 0.0050000000000000044
     },
     {
         "unidadeTerritorial": "Município",
@@ -1737,7 +1766,8 @@ const councilData = [
         "aguaBalnearSalgadaExcelente2011": 0,
         "aguaBalnearSalgadaExcelente2021": 0,
         "superficieArdida2011": 4.8,
-        "superficieArdida2021": 0.6
+        "superficieArdida2021": 0.6,
+        "beneficioFiscal2023": 0.015
     },
     {
         "unidadeTerritorial": "NUTS III",
@@ -1795,7 +1825,8 @@ const councilData = [
         "aguaBalnearSalgadaExcelente2011": 82.8,
         "aguaBalnearSalgadaExcelente2021": 96.7,
         "superficieArdida2011": 1.7,
-        "superficieArdida2021": 0.3
+        "superficieArdida2021": 0.3,
+        "beneficioFiscal2023": 0.020000000000000004
     },
     {
         "unidadeTerritorial": "Município",
@@ -1853,7 +1884,8 @@ const councilData = [
         "aguaBalnearSalgadaExcelente2011": 0,
         "aguaBalnearSalgadaExcelente2021": 0,
         "superficieArdida2011": 1,
-        "superficieArdida2021": 1.1
+        "superficieArdida2021": 1.1,
+        "beneficioFiscal2023": 0.04
     },
     {
         "unidadeTerritorial": "Município",
@@ -1911,7 +1943,8 @@ const councilData = [
         "aguaBalnearSalgadaExcelente2011": 66.7,
         "aguaBalnearSalgadaExcelente2021": 83.3,
         "superficieArdida2011": 0.7,
-        "superficieArdida2021": 0.1
+        "superficieArdida2021": 0.1,
+        "beneficioFiscal2023": 0.0050000000000000044
     },
     {
         "unidadeTerritorial": "Município",
@@ -1969,7 +2002,8 @@ const councilData = [
         "aguaBalnearSalgadaExcelente2011": 0,
         "aguaBalnearSalgadaExcelente2021": 0,
         "superficieArdida2011": 3.6,
-        "superficieArdida2021": 0.4
+        "superficieArdida2021": 0.4,
+        "beneficioFiscal2023": 0
     },
     {
         "unidadeTerritorial": "Município",
@@ -2027,7 +2061,8 @@ const councilData = [
         "aguaBalnearSalgadaExcelente2011": 0,
         "aguaBalnearSalgadaExcelente2021": 0,
         "superficieArdida2011": 1.6,
-        "superficieArdida2021": 0.1
+        "superficieArdida2021": 0.1,
+        "beneficioFiscal2023": 0.010000000000000002
     },
     {
         "unidadeTerritorial": "Município",
@@ -2085,7 +2120,8 @@ const councilData = [
         "aguaBalnearSalgadaExcelente2011": 75,
         "aguaBalnearSalgadaExcelente2021": 100,
         "superficieArdida2011": 0.3,
-        "superficieArdida2021": 0
+        "superficieArdida2021": 0,
+        "beneficioFiscal2023": 0.010000000000000002
     },
     {
         "unidadeTerritorial": "Município",
@@ -2143,7 +2179,8 @@ const councilData = [
         "aguaBalnearSalgadaExcelente2011": 0,
         "aguaBalnearSalgadaExcelente2021": 0,
         "superficieArdida2011": 1.2,
-        "superficieArdida2021": 0.1
+        "superficieArdida2021": 0.1,
+        "beneficioFiscal2023": 0
     },
     {
         "unidadeTerritorial": "Município",
@@ -2201,7 +2238,8 @@ const councilData = [
         "aguaBalnearSalgadaExcelente2011": 0,
         "aguaBalnearSalgadaExcelente2021": 0,
         "superficieArdida2011": 1,
-        "superficieArdida2021": 0.2
+        "superficieArdida2021": 0.2,
+        "beneficioFiscal2023": 0
     },
     {
         "unidadeTerritorial": "Município",
@@ -2259,7 +2297,8 @@ const councilData = [
         "aguaBalnearSalgadaExcelente2011": 75,
         "aguaBalnearSalgadaExcelente2021": 75,
         "superficieArdida2011": 0,
-        "superficieArdida2021": 0
+        "superficieArdida2021": 0,
+        "beneficioFiscal2023": 0.010000000000000002
     },
     {
         "unidadeTerritorial": "Município",
@@ -2317,7 +2356,8 @@ const councilData = [
         "aguaBalnearSalgadaExcelente2011": 100,
         "aguaBalnearSalgadaExcelente2021": 100,
         "superficieArdida2011": 1.2,
-        "superficieArdida2021": 0.5
+        "superficieArdida2021": 0.5,
+        "beneficioFiscal2023": 0.010000000000000002
     },
     {
         "unidadeTerritorial": "Município",
@@ -2375,7 +2415,8 @@ const councilData = [
         "aguaBalnearSalgadaExcelente2011": 0,
         "aguaBalnearSalgadaExcelente2021": 0,
         "superficieArdida2011": 2.3,
-        "superficieArdida2021": 0.3
+        "superficieArdida2021": 0.3,
+        "beneficioFiscal2023": 0
     },
     {
         "unidadeTerritorial": "Município",
@@ -2433,7 +2474,8 @@ const councilData = [
         "aguaBalnearSalgadaExcelente2011": 0,
         "aguaBalnearSalgadaExcelente2021": 0,
         "superficieArdida2011": 2.4,
-        "superficieArdida2021": 0.1
+        "superficieArdida2021": 0.1,
+        "beneficioFiscal2023": 0.0025000000000000022
     },
     {
         "unidadeTerritorial": "Município",
@@ -2491,7 +2533,8 @@ const councilData = [
         "aguaBalnearSalgadaExcelente2011": 0,
         "aguaBalnearSalgadaExcelente2021": 0,
         "superficieArdida2011": 0.1,
-        "superficieArdida2021": 0
+        "superficieArdida2021": 0,
+        "beneficioFiscal2023": 0.0025000000000000022
     },
     {
         "unidadeTerritorial": "Município",
@@ -2549,7 +2592,8 @@ const councilData = [
         "aguaBalnearSalgadaExcelente2011": 0,
         "aguaBalnearSalgadaExcelente2021": 0,
         "superficieArdida2011": 2.7,
-        "superficieArdida2021": 0.8
+        "superficieArdida2021": 0.8,
+        "beneficioFiscal2023": 0.0020000000000000018
     },
     {
         "unidadeTerritorial": "Município",
@@ -2607,7 +2651,8 @@ const councilData = [
         "aguaBalnearSalgadaExcelente2011": 0,
         "aguaBalnearSalgadaExcelente2021": 0,
         "superficieArdida2011": 5.2,
-        "superficieArdida2021": 0.1
+        "superficieArdida2021": 0.1,
+        "beneficioFiscal2023": 0.025
     },
     {
         "unidadeTerritorial": "Município",
@@ -2665,7 +2710,8 @@ const councilData = [
         "aguaBalnearSalgadaExcelente2011": 0,
         "aguaBalnearSalgadaExcelente2021": 0,
         "superficieArdida2011": 0.8,
-        "superficieArdida2021": 0
+        "superficieArdida2021": 0,
+        "beneficioFiscal2023": 0
     },
     {
         "unidadeTerritorial": "Município",
@@ -2723,7 +2769,8 @@ const councilData = [
         "aguaBalnearSalgadaExcelente2011": 40,
         "aguaBalnearSalgadaExcelente2021": 100,
         "superficieArdida2011": 0.3,
-        "superficieArdida2021": 0
+        "superficieArdida2021": 0,
+        "beneficioFiscal2023": 0.05
     },
     {
         "unidadeTerritorial": "Município",
@@ -2781,7 +2828,8 @@ const councilData = [
         "aguaBalnearSalgadaExcelente2011": 100,
         "aguaBalnearSalgadaExcelente2021": 100,
         "superficieArdida2011": 0.8,
-        "superficieArdida2021": 0
+        "superficieArdida2021": 0,
+        "beneficioFiscal2023": 0.010000000000000002
     },
     {
         "unidadeTerritorial": "NUTS III",
@@ -2839,7 +2887,8 @@ const councilData = [
         "aguaBalnearSalgadaExcelente2011": 0,
         "aguaBalnearSalgadaExcelente2021": 0,
         "superficieArdida2011": 4.4,
-        "superficieArdida2021": 1.1
+        "superficieArdida2021": 1.1,
+        "beneficioFiscal2023": 0.025
     },
     {
         "unidadeTerritorial": "Município",
@@ -2897,7 +2946,8 @@ const councilData = [
         "aguaBalnearSalgadaExcelente2011": 0,
         "aguaBalnearSalgadaExcelente2021": 0,
         "superficieArdida2011": 2.1,
-        "superficieArdida2021": 1.1
+        "superficieArdida2021": 1.1,
+        "beneficioFiscal2023": 0.05
     },
     {
         "unidadeTerritorial": "Município",
@@ -2955,7 +3005,8 @@ const councilData = [
         "aguaBalnearSalgadaExcelente2011": 0,
         "aguaBalnearSalgadaExcelente2021": 0,
         "superficieArdida2011": 5.3,
-        "superficieArdida2021": 0.2
+        "superficieArdida2021": 0.2,
+        "beneficioFiscal2023": 0
     },
     {
         "unidadeTerritorial": "Município",
@@ -3013,7 +3064,8 @@ const councilData = [
         "aguaBalnearSalgadaExcelente2011": 0,
         "aguaBalnearSalgadaExcelente2021": 0,
         "superficieArdida2011": 4.3,
-        "superficieArdida2021": 2.5
+        "superficieArdida2021": 2.5,
+        "beneficioFiscal2023": 0
     },
     {
         "unidadeTerritorial": "Município",
@@ -3071,7 +3123,8 @@ const councilData = [
         "aguaBalnearSalgadaExcelente2011": 0,
         "aguaBalnearSalgadaExcelente2021": 0,
         "superficieArdida2011": 1,
-        "superficieArdida2021": 0.7
+        "superficieArdida2021": 0.7,
+        "beneficioFiscal2023": 0
     },
     {
         "unidadeTerritorial": "Município",
@@ -3129,7 +3182,8 @@ const councilData = [
         "aguaBalnearSalgadaExcelente2011": 0,
         "aguaBalnearSalgadaExcelente2021": 0,
         "superficieArdida2011": 6.6,
-        "superficieArdida2021": 0.4
+        "superficieArdida2021": 0.4,
+        "beneficioFiscal2023": 0
     },
     {
         "unidadeTerritorial": "Município",
@@ -3187,7 +3241,8 @@ const councilData = [
         "aguaBalnearSalgadaExcelente2011": 0,
         "aguaBalnearSalgadaExcelente2021": 0,
         "superficieArdida2011": 4.1,
-        "superficieArdida2021": 0.5
+        "superficieArdida2021": 0.5,
+        "beneficioFiscal2023": 0
     },
     {
         "unidadeTerritorial": "NUTS III",
@@ -3245,7 +3300,8 @@ const councilData = [
         "aguaBalnearSalgadaExcelente2011": 0,
         "aguaBalnearSalgadaExcelente2021": 0,
         "superficieArdida2011": 2.5,
-        "superficieArdida2021": 0.7
+        "superficieArdida2021": 0.7,
+        "beneficioFiscal2023": 0
     },
     {
         "unidadeTerritorial": "Município",
@@ -3303,7 +3359,8 @@ const councilData = [
         "aguaBalnearSalgadaExcelente2011": 0,
         "aguaBalnearSalgadaExcelente2021": 0,
         "superficieArdida2011": 0.7,
-        "superficieArdida2021": 0.2
+        "superficieArdida2021": 0.2,
+        "beneficioFiscal2023": 0
     },
     {
         "unidadeTerritorial": "Município",
@@ -3361,7 +3418,8 @@ const councilData = [
         "aguaBalnearSalgadaExcelente2011": 0,
         "aguaBalnearSalgadaExcelente2021": 0,
         "superficieArdida2011": 5.1,
-        "superficieArdida2021": 1.6
+        "superficieArdida2021": 1.6,
+        "beneficioFiscal2023": 0
     },
     {
         "unidadeTerritorial": "Município",
@@ -3419,7 +3477,8 @@ const councilData = [
         "aguaBalnearSalgadaExcelente2011": 0,
         "aguaBalnearSalgadaExcelente2021": 0,
         "superficieArdida2011": 0.3,
-        "superficieArdida2021": 0.1
+        "superficieArdida2021": 0.1,
+        "beneficioFiscal2023": 0
     },
     {
         "unidadeTerritorial": "Município",
@@ -3477,7 +3536,8 @@ const councilData = [
         "aguaBalnearSalgadaExcelente2011": 0,
         "aguaBalnearSalgadaExcelente2021": 0,
         "superficieArdida2011": 2.4,
-        "superficieArdida2021": 1.4
+        "superficieArdida2021": 1.4,
+        "beneficioFiscal2023": 0.010000000000000002
     },
     {
         "unidadeTerritorial": "Município",
@@ -3535,7 +3595,8 @@ const councilData = [
         "aguaBalnearSalgadaExcelente2011": 0,
         "aguaBalnearSalgadaExcelente2021": 0,
         "superficieArdida2011": 2.1,
-        "superficieArdida2021": 0.5
+        "superficieArdida2021": 0.5,
+        "beneficioFiscal2023": 0.020000000000000004
     },
     {
         "unidadeTerritorial": "Município",
@@ -3593,7 +3654,8 @@ const councilData = [
         "aguaBalnearSalgadaExcelente2011": 0,
         "aguaBalnearSalgadaExcelente2021": 0,
         "superficieArdida2011": 1.4,
-        "superficieArdida2021": 0.6
+        "superficieArdida2021": 0.6,
+        "beneficioFiscal2023": 0.0033000000000000043
     },
     {
         "unidadeTerritorial": "Município",
@@ -3651,7 +3713,8 @@ const councilData = [
         "aguaBalnearSalgadaExcelente2011": 0,
         "aguaBalnearSalgadaExcelente2021": 0,
         "superficieArdida2011": 1.9,
-        "superficieArdida2021": 0.7
+        "superficieArdida2021": 0.7,
+        "beneficioFiscal2023": 0.010000000000000002
     },
     {
         "unidadeTerritorial": "Município",
@@ -3709,7 +3772,8 @@ const councilData = [
         "aguaBalnearSalgadaExcelente2011": 0,
         "aguaBalnearSalgadaExcelente2021": 0,
         "superficieArdida2011": 3.6,
-        "superficieArdida2021": 0.5
+        "superficieArdida2021": 0.5,
+        "beneficioFiscal2023": 0.010000000000000002
     },
     {
         "unidadeTerritorial": "Município",
@@ -3767,7 +3831,8 @@ const councilData = [
         "aguaBalnearSalgadaExcelente2011": 0,
         "aguaBalnearSalgadaExcelente2021": 0,
         "superficieArdida2011": 0.8,
-        "superficieArdida2021": 0.2
+        "superficieArdida2021": 0.2,
+        "beneficioFiscal2023": 0.030000000000000002
     },
     {
         "unidadeTerritorial": "Município",
@@ -3825,7 +3890,8 @@ const councilData = [
         "aguaBalnearSalgadaExcelente2011": 0,
         "aguaBalnearSalgadaExcelente2021": 0,
         "superficieArdida2011": 4.4,
-        "superficieArdida2021": 0.8
+        "superficieArdida2021": 0.8,
+        "beneficioFiscal2023": 0
     },
     {
         "unidadeTerritorial": "Município",
@@ -3883,7 +3949,8 @@ const councilData = [
         "aguaBalnearSalgadaExcelente2011": 0,
         "aguaBalnearSalgadaExcelente2021": 0,
         "superficieArdida2011": 3,
-        "superficieArdida2021": 1.3
+        "superficieArdida2021": 1.3,
+        "beneficioFiscal2023": 0.05
     },
     {
         "unidadeTerritorial": "NUTS III",
@@ -3941,7 +4008,8 @@ const councilData = [
         "aguaBalnearSalgadaExcelente2011": 0,
         "aguaBalnearSalgadaExcelente2021": 0,
         "superficieArdida2011": 2.4,
-        "superficieArdida2021": 0.4
+        "superficieArdida2021": 0.4,
+        "beneficioFiscal2023": 0
     },
     {
         "unidadeTerritorial": "Município",
@@ -3999,7 +4067,8 @@ const councilData = [
         "aguaBalnearSalgadaExcelente2011": 0,
         "aguaBalnearSalgadaExcelente2021": 0,
         "superficieArdida2011": 0.9,
-        "superficieArdida2021": 0
+        "superficieArdida2021": 0,
+        "beneficioFiscal2023": 0.017
     },
     {
         "unidadeTerritorial": "Município",
@@ -4057,7 +4126,8 @@ const councilData = [
         "aguaBalnearSalgadaExcelente2011": 0,
         "aguaBalnearSalgadaExcelente2021": 0,
         "superficieArdida2011": 0.1,
-        "superficieArdida2021": 0
+        "superficieArdida2021": 0,
+        "beneficioFiscal2023": 0.04
     },
     {
         "unidadeTerritorial": "Município",
@@ -4115,7 +4185,8 @@ const councilData = [
         "aguaBalnearSalgadaExcelente2011": 0,
         "aguaBalnearSalgadaExcelente2021": 0,
         "superficieArdida2011": 1.2,
-        "superficieArdida2021": 0
+        "superficieArdida2021": 0,
+        "beneficioFiscal2023": 0.05
     },
     {
         "unidadeTerritorial": "Município",
@@ -4173,7 +4244,8 @@ const councilData = [
         "aguaBalnearSalgadaExcelente2011": 0,
         "aguaBalnearSalgadaExcelente2021": 0,
         "superficieArdida2011": 1.6,
-        "superficieArdida2021": 2.5
+        "superficieArdida2021": 2.5,
+        "beneficioFiscal2023": 0.025
     },
     {
         "unidadeTerritorial": "Município",
@@ -4231,7 +4303,8 @@ const councilData = [
         "aguaBalnearSalgadaExcelente2011": 0,
         "aguaBalnearSalgadaExcelente2021": 0,
         "superficieArdida2011": 2,
-        "superficieArdida2021": 0.3
+        "superficieArdida2021": 0.3,
+        "beneficioFiscal2023": 0.010000000000000002
     },
     {
         "unidadeTerritorial": "Município",
@@ -4289,7 +4362,8 @@ const councilData = [
         "aguaBalnearSalgadaExcelente2011": 0,
         "aguaBalnearSalgadaExcelente2021": 0,
         "superficieArdida2011": 0.3,
-        "superficieArdida2021": 1.4
+        "superficieArdida2021": 1.4,
+        "beneficioFiscal2023": 0.020000000000000004
     },
     {
         "unidadeTerritorial": "Município",
@@ -4347,7 +4421,8 @@ const councilData = [
         "aguaBalnearSalgadaExcelente2011": 0,
         "aguaBalnearSalgadaExcelente2021": 0,
         "superficieArdida2011": 3.2,
-        "superficieArdida2021": 0
+        "superficieArdida2021": 0,
+        "beneficioFiscal2023": 0.0050000000000000044
     },
     {
         "unidadeTerritorial": "Município",
@@ -4405,7 +4480,8 @@ const councilData = [
         "aguaBalnearSalgadaExcelente2011": 0,
         "aguaBalnearSalgadaExcelente2021": 0,
         "superficieArdida2011": 0.4,
-        "superficieArdida2021": 0.1
+        "superficieArdida2021": 0.1,
+        "beneficioFiscal2023": 0.020000000000000004
     },
     {
         "unidadeTerritorial": "Município",
@@ -4463,7 +4539,8 @@ const councilData = [
         "aguaBalnearSalgadaExcelente2011": 0,
         "aguaBalnearSalgadaExcelente2021": 0,
         "superficieArdida2011": 0.2,
-        "superficieArdida2021": 0.1
+        "superficieArdida2021": 0.1,
+        "beneficioFiscal2023": 0.05
     },
     {
         "unidadeTerritorial": "Município",
@@ -4521,7 +4598,8 @@ const councilData = [
         "aguaBalnearSalgadaExcelente2011": 0,
         "aguaBalnearSalgadaExcelente2021": 0,
         "superficieArdida2011": 0.4,
-        "superficieArdida2021": 2.7
+        "superficieArdida2021": 2.7,
+        "beneficioFiscal2023": 0
     },
     {
         "unidadeTerritorial": "Município",
@@ -4579,7 +4657,8 @@ const councilData = [
         "aguaBalnearSalgadaExcelente2011": 0,
         "aguaBalnearSalgadaExcelente2021": 0,
         "superficieArdida2011": 0.2,
-        "superficieArdida2021": 0
+        "superficieArdida2021": 0,
+        "beneficioFiscal2023": 0.05
     },
     {
         "unidadeTerritorial": "Município",
@@ -4637,7 +4716,8 @@ const councilData = [
         "aguaBalnearSalgadaExcelente2011": 0,
         "aguaBalnearSalgadaExcelente2021": 0,
         "superficieArdida2011": 0.3,
-        "superficieArdida2021": 0.3
+        "superficieArdida2021": 0.3,
+        "beneficioFiscal2023": 0.045000000000000005
     },
     {
         "unidadeTerritorial": "Município",
@@ -4695,7 +4775,8 @@ const councilData = [
         "aguaBalnearSalgadaExcelente2011": 0,
         "aguaBalnearSalgadaExcelente2021": 0,
         "superficieArdida2011": 1.8,
-        "superficieArdida2021": 0.1
+        "superficieArdida2021": 0.1,
+        "beneficioFiscal2023": 0.0025000000000000022
     },
     {
         "unidadeTerritorial": "Município",
@@ -4753,7 +4834,8 @@ const councilData = [
         "aguaBalnearSalgadaExcelente2011": 0,
         "aguaBalnearSalgadaExcelente2021": 0,
         "superficieArdida2011": 5.4,
-        "superficieArdida2021": 0
+        "superficieArdida2021": 0,
+        "beneficioFiscal2023": 0
     },
     {
         "unidadeTerritorial": "Município",
@@ -4811,7 +4893,8 @@ const councilData = [
         "aguaBalnearSalgadaExcelente2011": 0,
         "aguaBalnearSalgadaExcelente2021": 0,
         "superficieArdida2011": 0,
-        "superficieArdida2021": 0
+        "superficieArdida2021": 0,
+        "beneficioFiscal2023": 0
     },
     {
         "unidadeTerritorial": "Município",
@@ -4869,7 +4952,8 @@ const councilData = [
         "aguaBalnearSalgadaExcelente2011": 0,
         "aguaBalnearSalgadaExcelente2021": 0,
         "superficieArdida2011": 0.1,
-        "superficieArdida2021": 1.8
+        "superficieArdida2021": 1.8,
+        "beneficioFiscal2023": 0
     },
     {
         "unidadeTerritorial": "Município",
@@ -4927,7 +5011,8 @@ const councilData = [
         "aguaBalnearSalgadaExcelente2011": 0,
         "aguaBalnearSalgadaExcelente2021": 0,
         "superficieArdida2011": 8,
-        "superficieArdida2021": 0.1
+        "superficieArdida2021": 0.1,
+        "beneficioFiscal2023": 0
     },
     {
         "unidadeTerritorial": "Município",
@@ -4985,7 +5070,8 @@ const councilData = [
         "aguaBalnearSalgadaExcelente2011": 0,
         "aguaBalnearSalgadaExcelente2021": 0,
         "superficieArdida2011": 1.4,
-        "superficieArdida2021": 0.2
+        "superficieArdida2021": 0.2,
+        "beneficioFiscal2023": 0
     },
     {
         "unidadeTerritorial": "Município",
@@ -5043,7 +5129,8 @@ const councilData = [
         "aguaBalnearSalgadaExcelente2011": 0,
         "aguaBalnearSalgadaExcelente2021": 0,
         "superficieArdida2011": 2.5,
-        "superficieArdida2021": 0.5
+        "superficieArdida2021": 0.5,
+        "beneficioFiscal2023": 0
     },
     {
         "unidadeTerritorial": "NUTS III",
@@ -5101,7 +5188,8 @@ const councilData = [
         "aguaBalnearSalgadaExcelente2011": 0,
         "aguaBalnearSalgadaExcelente2021": 0,
         "superficieArdida2011": 1.2,
-        "superficieArdida2021": 0.1
+        "superficieArdida2021": 0.1,
+        "beneficioFiscal2023": 0.0050000000000000044
     },
     {
         "unidadeTerritorial": "Município",
@@ -5159,7 +5247,8 @@ const councilData = [
         "aguaBalnearSalgadaExcelente2011": 0,
         "aguaBalnearSalgadaExcelente2021": 0,
         "superficieArdida2011": 1.2,
-        "superficieArdida2021": 0
+        "superficieArdida2021": 0,
+        "beneficioFiscal2023": 0
     },
     {
         "unidadeTerritorial": "Município",
@@ -5217,7 +5306,8 @@ const councilData = [
         "aguaBalnearSalgadaExcelente2011": 0,
         "aguaBalnearSalgadaExcelente2021": 0,
         "superficieArdida2011": 0.8,
-        "superficieArdida2021": 0.1
+        "superficieArdida2021": 0.1,
+        "beneficioFiscal2023": 0
     },
     {
         "unidadeTerritorial": "Município",
@@ -5275,7 +5365,8 @@ const councilData = [
         "aguaBalnearSalgadaExcelente2011": 0,
         "aguaBalnearSalgadaExcelente2021": 0,
         "superficieArdida2011": 0.2,
-        "superficieArdida2021": 0
+        "superficieArdida2021": 0,
+        "beneficioFiscal2023": 0.04
     },
     {
         "unidadeTerritorial": "Município",
@@ -5333,7 +5424,8 @@ const councilData = [
         "aguaBalnearSalgadaExcelente2011": 0,
         "aguaBalnearSalgadaExcelente2021": 0,
         "superficieArdida2011": 0.4,
-        "superficieArdida2021": 0
+        "superficieArdida2021": 0,
+        "beneficioFiscal2023": 0.025
     },
     {
         "unidadeTerritorial": "Município",
@@ -5391,7 +5483,8 @@ const councilData = [
         "aguaBalnearSalgadaExcelente2011": 0,
         "aguaBalnearSalgadaExcelente2021": 0,
         "superficieArdida2011": 1.6,
-        "superficieArdida2021": 0
+        "superficieArdida2021": 0,
+        "beneficioFiscal2023": 0.030000000000000002
     },
     {
         "unidadeTerritorial": "Município",
@@ -5449,7 +5542,8 @@ const councilData = [
         "aguaBalnearSalgadaExcelente2011": 0,
         "aguaBalnearSalgadaExcelente2021": 0,
         "superficieArdida2011": 0.5,
-        "superficieArdida2021": 0.3
+        "superficieArdida2021": 0.3,
+        "beneficioFiscal2023": 0.030000000000000002
     },
     {
         "unidadeTerritorial": "Município",
@@ -5507,7 +5601,8 @@ const councilData = [
         "aguaBalnearSalgadaExcelente2011": 0,
         "aguaBalnearSalgadaExcelente2021": 0,
         "superficieArdida2011": 3.1,
-        "superficieArdida2021": 0
+        "superficieArdida2021": 0,
+        "beneficioFiscal2023": 0.05
     },
     {
         "unidadeTerritorial": "Município",
@@ -5565,7 +5660,8 @@ const councilData = [
         "aguaBalnearSalgadaExcelente2011": 0,
         "aguaBalnearSalgadaExcelente2021": 0,
         "superficieArdida2011": 0.9,
-        "superficieArdida2021": 0.1
+        "superficieArdida2021": 0.1,
+        "beneficioFiscal2023": 0
     },
     {
         "unidadeTerritorial": "Município",
@@ -5623,7 +5719,8 @@ const councilData = [
         "aguaBalnearSalgadaExcelente2011": 0,
         "aguaBalnearSalgadaExcelente2021": 0,
         "superficieArdida2011": 3.2,
-        "superficieArdida2021": 0.3
+        "superficieArdida2021": 0.3,
+        "beneficioFiscal2023": 0.05
     },
     {
         "unidadeTerritorial": "NUTS II",
@@ -5681,7 +5778,8 @@ const councilData = [
         "aguaBalnearSalgadaExcelente2011": 92.4,
         "aguaBalnearSalgadaExcelente2021": 96.4,
         "superficieArdida2011": 0.9,
-        "superficieArdida2021": 0.1
+        "superficieArdida2021": 0.1,
+        "beneficioFiscal2023": 0.010000000000000002
     },
     {
         "unidadeTerritorial": "NUTS III",
@@ -5739,7 +5837,8 @@ const councilData = [
         "aguaBalnearSalgadaExcelente2011": 97.6,
         "aguaBalnearSalgadaExcelente2021": 100,
         "superficieArdida2011": 0.5,
-        "superficieArdida2021": 0
+        "superficieArdida2021": 0,
+        "beneficioFiscal2023": 0.0030000000000000027
     },
     {
         "unidadeTerritorial": "Município",
@@ -5797,7 +5896,8 @@ const councilData = [
         "aguaBalnearSalgadaExcelente2011": 83.3,
         "aguaBalnearSalgadaExcelente2021": 100,
         "superficieArdida2011": 0.1,
-        "superficieArdida2021": 0
+        "superficieArdida2021": 0,
+        "beneficioFiscal2023": 0.025
     },
     {
         "unidadeTerritorial": "Município",
@@ -5855,7 +5955,8 @@ const councilData = [
         "aguaBalnearSalgadaExcelente2011": 0,
         "aguaBalnearSalgadaExcelente2021": 0,
         "superficieArdida2011": 0.6,
-        "superficieArdida2021": 0.2
+        "superficieArdida2021": 0.2,
+        "beneficioFiscal2023": 0.0020000000000000018
     },
     {
         "unidadeTerritorial": "Município",
@@ -5913,7 +6014,8 @@ const councilData = [
         "aguaBalnearSalgadaExcelente2011": 0,
         "aguaBalnearSalgadaExcelente2021": 0,
         "superficieArdida2011": 2.1,
-        "superficieArdida2021": 0.1
+        "superficieArdida2021": 0.1,
+        "beneficioFiscal2023": 0.011000000000000003
     },
     {
         "unidadeTerritorial": "Município",
@@ -5971,7 +6073,8 @@ const councilData = [
         "aguaBalnearSalgadaExcelente2011": 0,
         "aguaBalnearSalgadaExcelente2021": 0,
         "superficieArdida2011": 0.8,
-        "superficieArdida2021": 0
+        "superficieArdida2021": 0,
+        "beneficioFiscal2023": 0.015
     },
     {
         "unidadeTerritorial": "Município",
@@ -6029,7 +6132,8 @@ const councilData = [
         "aguaBalnearSalgadaExcelente2011": 0,
         "aguaBalnearSalgadaExcelente2021": 0,
         "superficieArdida2011": 0.2,
-        "superficieArdida2021": 0
+        "superficieArdida2021": 0,
+        "beneficioFiscal2023": 0.012500000000000004
     },
     {
         "unidadeTerritorial": "Município",
@@ -6087,7 +6191,8 @@ const councilData = [
         "aguaBalnearSalgadaExcelente2011": "Município",
         "aguaBalnearSalgadaExcelente2021": "Município",
         "superficieArdida2011": "Município",
-        "superficieArdida2021": "Município"
+        "superficieArdida2021": "Município",
+        "beneficioFiscal2023": 0.020000000000000004
     },
     {
         "unidadeTerritorial": "Município",
@@ -6145,7 +6250,8 @@ const councilData = [
         "aguaBalnearSalgadaExcelente2011": 100,
         "aguaBalnearSalgadaExcelente2021": 100,
         "superficieArdida2011": 0.8,
-        "superficieArdida2021": 0
+        "superficieArdida2021": 0,
+        "beneficioFiscal2023": 0.012500000000000004
     },
     {
         "unidadeTerritorial": "Município",
@@ -6203,7 +6309,8 @@ const councilData = [
         "aguaBalnearSalgadaExcelente2011": 100,
         "aguaBalnearSalgadaExcelente2021": 100,
         "superficieArdida2011": 0,
-        "superficieArdida2021": 0
+        "superficieArdida2021": 0,
+        "beneficioFiscal2023": 0
     },
     {
         "unidadeTerritorial": "Município",
@@ -6261,7 +6368,8 @@ const councilData = [
         "aguaBalnearSalgadaExcelente2011": 100,
         "aguaBalnearSalgadaExcelente2021": 100,
         "superficieArdida2011": 0.7,
-        "superficieArdida2021": 0.1
+        "superficieArdida2021": 0.1,
+        "beneficioFiscal2023": 0.04
     },
     {
         "unidadeTerritorial": "Município",
@@ -6319,7 +6427,8 @@ const councilData = [
         "aguaBalnearSalgadaExcelente2011": 100,
         "aguaBalnearSalgadaExcelente2021": 100,
         "superficieArdida2011": 0.3,
-        "superficieArdida2021": 0
+        "superficieArdida2021": 0,
+        "beneficioFiscal2023": 0.010000000000000002
     },
     {
         "unidadeTerritorial": "Município",
@@ -6377,7 +6486,8 @@ const councilData = [
         "aguaBalnearSalgadaExcelente2011": 0,
         "aguaBalnearSalgadaExcelente2021": 0,
         "superficieArdida2011": 1.7,
-        "superficieArdida2021": 0
+        "superficieArdida2021": 0,
+        "beneficioFiscal2023": 0
     },
     {
         "unidadeTerritorial": "Município",
@@ -6435,7 +6545,8 @@ const councilData = [
         "aguaBalnearSalgadaExcelente2011": 100,
         "aguaBalnearSalgadaExcelente2021": 100,
         "superficieArdida2011": 0.5,
-        "superficieArdida2021": 0
+        "superficieArdida2021": 0,
+        "beneficioFiscal2023": 0.012500000000000004
     },
     {
         "unidadeTerritorial": "NUTS III",
@@ -6493,7 +6604,8 @@ const councilData = [
         "aguaBalnearSalgadaExcelente2011": 92.3,
         "aguaBalnearSalgadaExcelente2021": 94.1,
         "superficieArdida2011": 0.5,
-        "superficieArdida2021": 0
+        "superficieArdida2021": 0,
+        "beneficioFiscal2023": 0.020000000000000004
     },
     {
         "unidadeTerritorial": "Município",
@@ -6551,7 +6663,8 @@ const councilData = [
         "aguaBalnearSalgadaExcelente2011": 0,
         "aguaBalnearSalgadaExcelente2021": 0,
         "superficieArdida2011": 0.5,
-        "superficieArdida2021": 0
+        "superficieArdida2021": 0,
+        "beneficioFiscal2023": 0.05
     },
     {
         "unidadeTerritorial": "Município",
@@ -6609,7 +6722,8 @@ const councilData = [
         "aguaBalnearSalgadaExcelente2011": 0,
         "aguaBalnearSalgadaExcelente2021": 0,
         "superficieArdida2011": 1.8,
-        "superficieArdida2021": 0.1
+        "superficieArdida2021": 0.1,
+        "beneficioFiscal2023": 0.022500000000000003
     },
     {
         "unidadeTerritorial": "Município",
@@ -6667,7 +6781,8 @@ const councilData = [
         "aguaBalnearSalgadaExcelente2011": 0,
         "aguaBalnearSalgadaExcelente2021": 0,
         "superficieArdida2011": 0.1,
-        "superficieArdida2021": 0
+        "superficieArdida2021": 0,
+        "beneficioFiscal2023": 0.020000000000000004
     },
     {
         "unidadeTerritorial": "Município",
@@ -6725,7 +6840,8 @@ const councilData = [
         "aguaBalnearSalgadaExcelente2011": 100,
         "aguaBalnearSalgadaExcelente2021": 100,
         "superficieArdida2011": 0.2,
-        "superficieArdida2021": 0
+        "superficieArdida2021": 0,
+        "beneficioFiscal2023": 0
     },
     {
         "unidadeTerritorial": "Município",
@@ -6783,7 +6899,8 @@ const councilData = [
         "aguaBalnearSalgadaExcelente2011": 0,
         "aguaBalnearSalgadaExcelente2021": 0,
         "superficieArdida2011": 1,
-        "superficieArdida2021": 0
+        "superficieArdida2021": 0,
+        "beneficioFiscal2023": 0.020000000000000004
     },
     {
         "unidadeTerritorial": "Município",
@@ -6841,7 +6958,8 @@ const councilData = [
         "aguaBalnearSalgadaExcelente2011": 100,
         "aguaBalnearSalgadaExcelente2021": 75,
         "superficieArdida2011": 0,
-        "superficieArdida2021": 0
+        "superficieArdida2021": 0,
+        "beneficioFiscal2023": 0.010000000000000002
     },
     {
         "unidadeTerritorial": "Município",
@@ -6899,7 +7017,8 @@ const councilData = [
         "aguaBalnearSalgadaExcelente2011": 100,
         "aguaBalnearSalgadaExcelente2021": 100,
         "superficieArdida2011": 0,
-        "superficieArdida2021": 0
+        "superficieArdida2021": 0,
+        "beneficioFiscal2023": 0.025
     },
     {
         "unidadeTerritorial": "Município",
@@ -6957,7 +7076,8 @@ const councilData = [
         "aguaBalnearSalgadaExcelente2011": 0,
         "aguaBalnearSalgadaExcelente2021": 0,
         "superficieArdida2011": 0.8,
-        "superficieArdida2021": 0
+        "superficieArdida2021": 0,
+        "beneficioFiscal2023": 0.030000000000000002
     },
     {
         "unidadeTerritorial": "Município",
@@ -7015,7 +7135,8 @@ const councilData = [
         "aguaBalnearSalgadaExcelente2011": 80,
         "aguaBalnearSalgadaExcelente2021": 100,
         "superficieArdida2011": 0.4,
-        "superficieArdida2021": 0
+        "superficieArdida2021": 0,
+        "beneficioFiscal2023": 0.030000000000000002
     },
     {
         "unidadeTerritorial": "Município",
@@ -7073,7 +7194,8 @@ const councilData = [
         "aguaBalnearSalgadaExcelente2011": 0,
         "aguaBalnearSalgadaExcelente2021": 0,
         "superficieArdida2011": 0.2,
-        "superficieArdida2021": 0.1
+        "superficieArdida2021": 0.1,
+        "beneficioFiscal2023": 0.025
     },
     {
         "unidadeTerritorial": "Município",
@@ -7131,7 +7253,8 @@ const councilData = [
         "aguaBalnearSalgadaExcelente2011": 100,
         "aguaBalnearSalgadaExcelente2021": 100,
         "superficieArdida2011": 0.2,
-        "superficieArdida2021": 0
+        "superficieArdida2021": 0,
+        "beneficioFiscal2023": 0.025
     },
     {
         "unidadeTerritorial": "NUTS III",
@@ -7189,7 +7312,8 @@ const councilData = [
         "aguaBalnearSalgadaExcelente2011": 88.2,
         "aguaBalnearSalgadaExcelente2021": 93.8,
         "superficieArdida2011": 0.1,
-        "superficieArdida2021": 0
+        "superficieArdida2021": 0,
+        "beneficioFiscal2023": 0.020000000000000004
     },
     {
         "unidadeTerritorial": "Município",
@@ -7247,7 +7371,8 @@ const councilData = [
         "aguaBalnearSalgadaExcelente2011": 0,
         "aguaBalnearSalgadaExcelente2021": 0,
         "superficieArdida2011": 0,
-        "superficieArdida2021": 0
+        "superficieArdida2021": 0,
+        "beneficioFiscal2023": 0.05
     },
     {
         "unidadeTerritorial": "Município",
@@ -7305,7 +7430,8 @@ const councilData = [
         "aguaBalnearSalgadaExcelente2011": 100,
         "aguaBalnearSalgadaExcelente2021": 100,
         "superficieArdida2011": 0.2,
-        "superficieArdida2021": 0
+        "superficieArdida2021": 0,
+        "beneficioFiscal2023": 0
     },
     {
         "unidadeTerritorial": "Município",
@@ -7363,7 +7489,8 @@ const councilData = [
         "aguaBalnearSalgadaExcelente2011": 0,
         "aguaBalnearSalgadaExcelente2021": 0,
         "superficieArdida2011": 0,
-        "superficieArdida2021": 0
+        "superficieArdida2021": 0,
+        "beneficioFiscal2023": 0
     },
     {
         "unidadeTerritorial": "Município",
@@ -7421,7 +7548,8 @@ const councilData = [
         "aguaBalnearSalgadaExcelente2011": 0,
         "aguaBalnearSalgadaExcelente2021": 0,
         "superficieArdida2011": 0,
-        "superficieArdida2021": 0
+        "superficieArdida2021": 0,
+        "beneficioFiscal2023": 0
     },
     {
         "unidadeTerritorial": "Município",
@@ -7479,7 +7607,8 @@ const councilData = [
         "aguaBalnearSalgadaExcelente2011": 84.6,
         "aguaBalnearSalgadaExcelente2021": 91.7,
         "superficieArdida2011": 0,
-        "superficieArdida2021": 0
+        "superficieArdida2021": 0,
+        "beneficioFiscal2023": 0.015
     },
     {
         "unidadeTerritorial": "Município",
@@ -7537,7 +7666,8 @@ const councilData = [
         "aguaBalnearSalgadaExcelente2011": 0,
         "aguaBalnearSalgadaExcelente2021": 0,
         "superficieArdida2011": 0,
-        "superficieArdida2021": 0
+        "superficieArdida2021": 0,
+        "beneficioFiscal2023": 0.025
     },
     {
         "unidadeTerritorial": "Município",
@@ -7595,7 +7725,8 @@ const councilData = [
         "aguaBalnearSalgadaExcelente2011": 0,
         "aguaBalnearSalgadaExcelente2021": 0,
         "superficieArdida2011": 0.5,
-        "superficieArdida2021": 0
+        "superficieArdida2021": 0,
+        "beneficioFiscal2023": 0.010000000000000002
     },
     {
         "unidadeTerritorial": "Município",
@@ -7653,7 +7784,8 @@ const councilData = [
         "aguaBalnearSalgadaExcelente2011": 0,
         "aguaBalnearSalgadaExcelente2021": 0,
         "superficieArdida2011": 0,
-        "superficieArdida2021": 0
+        "superficieArdida2021": 0,
+        "beneficioFiscal2023": 0.030000000000000002
     },
     {
         "unidadeTerritorial": "Município",
@@ -7711,7 +7843,8 @@ const councilData = [
         "aguaBalnearSalgadaExcelente2011": 100,
         "aguaBalnearSalgadaExcelente2021": 100,
         "superficieArdida2011": 0,
-        "superficieArdida2021": 0
+        "superficieArdida2021": 0,
+        "beneficioFiscal2023": 0
     },
     {
         "unidadeTerritorial": "Município",
@@ -7769,7 +7902,8 @@ const councilData = [
         "aguaBalnearSalgadaExcelente2011": 0,
         "aguaBalnearSalgadaExcelente2021": 0,
         "superficieArdida2011": 0.6,
-        "superficieArdida2021": 0
+        "superficieArdida2021": 0,
+        "beneficioFiscal2023": 0
     },
     {
         "unidadeTerritorial": "Município",
@@ -7827,7 +7961,8 @@ const councilData = [
         "aguaBalnearSalgadaExcelente2011": 0,
         "aguaBalnearSalgadaExcelente2021": 0,
         "superficieArdida2011": 0.7,
-        "superficieArdida2021": 0
+        "superficieArdida2021": 0,
+        "beneficioFiscal2023": 0.0050000000000000044
     },
     {
         "unidadeTerritorial": "Município",
@@ -7885,7 +8020,8 @@ const councilData = [
         "aguaBalnearSalgadaExcelente2011": 0,
         "aguaBalnearSalgadaExcelente2021": 0,
         "superficieArdida2011": 0,
-        "superficieArdida2021": 0
+        "superficieArdida2021": 0,
+        "beneficioFiscal2023": 0.05
     },
     {
         "unidadeTerritorial": "Município",
@@ -7943,7 +8079,8 @@ const councilData = [
         "aguaBalnearSalgadaExcelente2011": 0,
         "aguaBalnearSalgadaExcelente2021": 0,
         "superficieArdida2011": 0.1,
-        "superficieArdida2021": 0
+        "superficieArdida2021": 0,
+        "beneficioFiscal2023": 0
     },
     {
         "unidadeTerritorial": "Município",
@@ -8001,7 +8138,8 @@ const councilData = [
         "aguaBalnearSalgadaExcelente2011": 0,
         "aguaBalnearSalgadaExcelente2021": 0,
         "superficieArdida2011": 0.1,
-        "superficieArdida2021": 0
+        "superficieArdida2021": 0,
+        "beneficioFiscal2023": 0.05
     },
     {
         "unidadeTerritorial": "Município",
@@ -8059,7 +8197,8 @@ const councilData = [
         "aguaBalnearSalgadaExcelente2011": 0,
         "aguaBalnearSalgadaExcelente2021": 0,
         "superficieArdida2011": 0.1,
-        "superficieArdida2021": 0
+        "superficieArdida2021": 0,
+        "beneficioFiscal2023": 0.010000000000000002
     },
     {
         "unidadeTerritorial": "Município",
@@ -8117,7 +8256,8 @@ const councilData = [
         "aguaBalnearSalgadaExcelente2011": 0,
         "aguaBalnearSalgadaExcelente2021": 0,
         "superficieArdida2011": 0.1,
-        "superficieArdida2021": 0
+        "superficieArdida2021": 0,
+        "beneficioFiscal2023": 0
     },
     {
         "unidadeTerritorial": "Município",
@@ -8175,7 +8315,8 @@ const councilData = [
         "aguaBalnearSalgadaExcelente2011": 0,
         "aguaBalnearSalgadaExcelente2021": 0,
         "superficieArdida2011": 0.1,
-        "superficieArdida2021": 0
+        "superficieArdida2021": 0,
+        "beneficioFiscal2023": 0
     },
     {
         "unidadeTerritorial": "Município",
@@ -8233,7 +8374,8 @@ const councilData = [
         "aguaBalnearSalgadaExcelente2011": 0,
         "aguaBalnearSalgadaExcelente2021": 0,
         "superficieArdida2011": 0.2,
-        "superficieArdida2021": 0
+        "superficieArdida2021": 0,
+        "beneficioFiscal2023": 0
     },
     {
         "unidadeTerritorial": "Município",
@@ -8291,7 +8433,8 @@ const councilData = [
         "aguaBalnearSalgadaExcelente2011": 0,
         "aguaBalnearSalgadaExcelente2021": 0,
         "superficieArdida2011": 0.2,
-        "superficieArdida2021": 0
+        "superficieArdida2021": 0,
+        "beneficioFiscal2023": 0
     },
     {
         "unidadeTerritorial": "NUTS III",
@@ -8349,7 +8492,8 @@ const councilData = [
         "aguaBalnearSalgadaExcelente2011": 75,
         "aguaBalnearSalgadaExcelente2021": 85.7,
         "superficieArdida2011": 0.7,
-        "superficieArdida2021": 0
+        "superficieArdida2021": 0,
+        "beneficioFiscal2023": 0.020000000000000004
     },
     {
         "unidadeTerritorial": "Município",
@@ -8407,7 +8551,8 @@ const councilData = [
         "aguaBalnearSalgadaExcelente2011": 0,
         "aguaBalnearSalgadaExcelente2021": 0,
         "superficieArdida2011": 0.1,
-        "superficieArdida2021": 0
+        "superficieArdida2021": 0,
+        "beneficioFiscal2023": 0.025
     },
     {
         "unidadeTerritorial": "Município",
@@ -8465,7 +8610,8 @@ const councilData = [
         "aguaBalnearSalgadaExcelente2011": 0,
         "aguaBalnearSalgadaExcelente2021": 0,
         "superficieArdida2011": 0.2,
-        "superficieArdida2021": 0
+        "superficieArdida2021": 0,
+        "beneficioFiscal2023": 0.010000000000000002
     },
     {
         "unidadeTerritorial": "Município",
@@ -8523,7 +8669,8 @@ const councilData = [
         "aguaBalnearSalgadaExcelente2011": 0,
         "aguaBalnearSalgadaExcelente2021": 0,
         "superficieArdida2011": 0,
-        "superficieArdida2021": 0
+        "superficieArdida2021": 0,
+        "beneficioFiscal2023": 0.010000000000000002
     },
     {
         "unidadeTerritorial": "Município",
@@ -8581,7 +8728,8 @@ const councilData = [
         "aguaBalnearSalgadaExcelente2011": 0,
         "aguaBalnearSalgadaExcelente2021": 0,
         "superficieArdida2011": 7.5,
-        "superficieArdida2021": 0
+        "superficieArdida2021": 0,
+        "beneficioFiscal2023": 0.05
     },
     {
         "unidadeTerritorial": "Município",
@@ -8639,7 +8787,8 @@ const councilData = [
         "aguaBalnearSalgadaExcelente2011": 0,
         "aguaBalnearSalgadaExcelente2021": 0,
         "superficieArdida2011": 1,
-        "superficieArdida2021": 0
+        "superficieArdida2021": 0,
+        "beneficioFiscal2023": 0.020000000000000004
     },
     {
         "unidadeTerritorial": "Município",
@@ -8697,7 +8846,8 @@ const councilData = [
         "aguaBalnearSalgadaExcelente2011": 100,
         "aguaBalnearSalgadaExcelente2021": 100,
         "superficieArdida2011": 0.1,
-        "superficieArdida2021": 0
+        "superficieArdida2021": 0,
+        "beneficioFiscal2023": 0
     },
     {
         "unidadeTerritorial": "Município",
@@ -8755,7 +8905,8 @@ const councilData = [
         "aguaBalnearSalgadaExcelente2011": 60,
         "aguaBalnearSalgadaExcelente2021": 75,
         "superficieArdida2011": 0,
-        "superficieArdida2021": 0
+        "superficieArdida2021": 0,
+        "beneficioFiscal2023": 0.010000000000000002
     },
     {
         "unidadeTerritorial": "Município",
@@ -8813,7 +8964,8 @@ const councilData = [
         "aguaBalnearSalgadaExcelente2011": 0,
         "aguaBalnearSalgadaExcelente2021": 0,
         "superficieArdida2011": 0,
-        "superficieArdida2021": 0
+        "superficieArdida2021": 0,
+        "beneficioFiscal2023": 0.025
     },
     {
         "unidadeTerritorial": "Município",
@@ -8871,7 +9023,8 @@ const councilData = [
         "aguaBalnearSalgadaExcelente2011": 100,
         "aguaBalnearSalgadaExcelente2021": 100,
         "superficieArdida2011": 0.8,
-        "superficieArdida2021": 0
+        "superficieArdida2021": 0,
+        "beneficioFiscal2023": 0.025
     },
     {
         "unidadeTerritorial": "Município",
@@ -8929,7 +9082,8 @@ const councilData = [
         "aguaBalnearSalgadaExcelente2011": 0,
         "aguaBalnearSalgadaExcelente2021": 0,
         "superficieArdida2011": 2.2,
-        "superficieArdida2021": 0
+        "superficieArdida2021": 0,
+        "beneficioFiscal2023": 0.025
     },
     {
         "unidadeTerritorial": "NUTS III",
@@ -8987,7 +9141,8 @@ const councilData = [
         "aguaBalnearSalgadaExcelente2011": 0,
         "aguaBalnearSalgadaExcelente2021": 0,
         "superficieArdida2011": 1.2,
-        "superficieArdida2021": 0.4
+        "superficieArdida2021": 0.4,
+        "beneficioFiscal2023": 0.010000000000000002
     },
     {
         "unidadeTerritorial": "Município",
@@ -9045,7 +9200,8 @@ const councilData = [
         "aguaBalnearSalgadaExcelente2011": 0,
         "aguaBalnearSalgadaExcelente2021": 0,
         "superficieArdida2011": 0.8,
-        "superficieArdida2021": 0
+        "superficieArdida2021": 0,
+        "beneficioFiscal2023": 0.05
     },
     {
         "unidadeTerritorial": "Município",
@@ -9103,7 +9259,8 @@ const councilData = [
         "aguaBalnearSalgadaExcelente2011": 0,
         "aguaBalnearSalgadaExcelente2021": 0,
         "superficieArdida2011": 0.1,
-        "superficieArdida2021": 0
+        "superficieArdida2021": 0,
+        "beneficioFiscal2023": 0
     },
     {
         "unidadeTerritorial": "Município",
@@ -9161,7 +9318,8 @@ const councilData = [
         "aguaBalnearSalgadaExcelente2011": 0,
         "aguaBalnearSalgadaExcelente2021": 0,
         "superficieArdida2011": 1.6,
-        "superficieArdida2021": 2.2
+        "superficieArdida2021": 2.2,
+        "beneficioFiscal2023": 0.020000000000000004
     },
     {
         "unidadeTerritorial": "Município",
@@ -9219,7 +9377,8 @@ const councilData = [
         "aguaBalnearSalgadaExcelente2011": 0,
         "aguaBalnearSalgadaExcelente2021": 0,
         "superficieArdida2011": 3.6,
-        "superficieArdida2021": 0
+        "superficieArdida2021": 0,
+        "beneficioFiscal2023": 0.010000000000000002
     },
     {
         "unidadeTerritorial": "Município",
@@ -9277,7 +9436,8 @@ const councilData = [
         "aguaBalnearSalgadaExcelente2011": 0,
         "aguaBalnearSalgadaExcelente2021": 0,
         "superficieArdida2011": 7,
-        "superficieArdida2021": 0
+        "superficieArdida2021": 0,
+        "beneficioFiscal2023": 0.010000000000000002
     },
     {
         "unidadeTerritorial": "Município",
@@ -9335,7 +9495,8 @@ const councilData = [
         "aguaBalnearSalgadaExcelente2011": 0,
         "aguaBalnearSalgadaExcelente2021": 0,
         "superficieArdida2011": 0.1,
-        "superficieArdida2021": 0
+        "superficieArdida2021": 0,
+        "beneficioFiscal2023": 0
     },
     {
         "unidadeTerritorial": "Município",
@@ -9393,7 +9554,8 @@ const councilData = [
         "aguaBalnearSalgadaExcelente2011": 0,
         "aguaBalnearSalgadaExcelente2021": 0,
         "superficieArdida2011": 0.7,
-        "superficieArdida2021": 0.1
+        "superficieArdida2021": 0.1,
+        "beneficioFiscal2023": 0.010000000000000002
     },
     {
         "unidadeTerritorial": "Município",
@@ -9451,7 +9613,8 @@ const councilData = [
         "aguaBalnearSalgadaExcelente2011": 0,
         "aguaBalnearSalgadaExcelente2021": 0,
         "superficieArdida2011": 0,
-        "superficieArdida2021": 0
+        "superficieArdida2021": 0,
+        "beneficioFiscal2023": 0.006000000000000005
     },
     {
         "unidadeTerritorial": "Município",
@@ -9509,7 +9672,8 @@ const councilData = [
         "aguaBalnearSalgadaExcelente2011": 0,
         "aguaBalnearSalgadaExcelente2021": 0,
         "superficieArdida2011": 0.9,
-        "superficieArdida2021": 0.3
+        "superficieArdida2021": 0.3,
+        "beneficioFiscal2023": 0.0025000000000000022
     },
     {
         "unidadeTerritorial": "Município",
@@ -9567,7 +9731,8 @@ const councilData = [
         "aguaBalnearSalgadaExcelente2011": 0,
         "aguaBalnearSalgadaExcelente2021": 0,
         "superficieArdida2011": 0.1,
-        "superficieArdida2021": 0
+        "superficieArdida2021": 0,
+        "beneficioFiscal2023": 0
     },
     {
         "unidadeTerritorial": "Município",
@@ -9625,7 +9790,8 @@ const councilData = [
         "aguaBalnearSalgadaExcelente2011": 0,
         "aguaBalnearSalgadaExcelente2021": 0,
         "superficieArdida2011": 0.5,
-        "superficieArdida2021": 0
+        "superficieArdida2021": 0,
+        "beneficioFiscal2023": 0.025
     },
     {
         "unidadeTerritorial": "Município",
@@ -9683,7 +9849,8 @@ const councilData = [
         "aguaBalnearSalgadaExcelente2011": 0,
         "aguaBalnearSalgadaExcelente2021": 0,
         "superficieArdida2011": 3.7,
-        "superficieArdida2021": 0.8
+        "superficieArdida2021": 0.8,
+        "beneficioFiscal2023": 0
     },
     {
         "unidadeTerritorial": "Município",
@@ -9741,7 +9908,8 @@ const councilData = [
         "aguaBalnearSalgadaExcelente2011": 0,
         "aguaBalnearSalgadaExcelente2021": 0,
         "superficieArdida2011": 0.2,
-        "superficieArdida2021": 0
+        "superficieArdida2021": 0,
+        "beneficioFiscal2023": 0.010000000000000002
     },
     {
         "unidadeTerritorial": "Município",
@@ -9799,7 +9967,8 @@ const councilData = [
         "aguaBalnearSalgadaExcelente2011": 0,
         "aguaBalnearSalgadaExcelente2021": 0,
         "superficieArdida2011": 0.1,
-        "superficieArdida2021": 0.1
+        "superficieArdida2021": 0.1,
+        "beneficioFiscal2023": 0
     },
     {
         "unidadeTerritorial": "NUTS III",
@@ -9857,7 +10026,8 @@ const councilData = [
         "aguaBalnearSalgadaExcelente2011": 0,
         "aguaBalnearSalgadaExcelente2021": 0,
         "superficieArdida2011": 0.7,
-        "superficieArdida2021": 0
+        "superficieArdida2021": 0,
+        "beneficioFiscal2023": 0.010000000000000002
     },
     {
         "unidadeTerritorial": "Município",
@@ -9915,7 +10085,8 @@ const councilData = [
         "aguaBalnearSalgadaExcelente2011": 0,
         "aguaBalnearSalgadaExcelente2021": 0,
         "superficieArdida2011": 0.4,
-        "superficieArdida2021": 0
+        "superficieArdida2021": 0,
+        "beneficioFiscal2023": 0.030000000000000002
     },
     {
         "unidadeTerritorial": "Município",
@@ -9973,7 +10144,8 @@ const councilData = [
         "aguaBalnearSalgadaExcelente2011": 0,
         "aguaBalnearSalgadaExcelente2021": 0,
         "superficieArdida2011": 1.5,
-        "superficieArdida2021": 0
+        "superficieArdida2021": 0,
+        "beneficioFiscal2023": 0.025
     },
     {
         "unidadeTerritorial": "Município",
@@ -10031,7 +10203,8 @@ const councilData = [
         "aguaBalnearSalgadaExcelente2011": 0,
         "aguaBalnearSalgadaExcelente2021": 0,
         "superficieArdida2011": 1.1,
-        "superficieArdida2021": 0
+        "superficieArdida2021": 0,
+        "beneficioFiscal2023": 0.05
     },
     {
         "unidadeTerritorial": "Município",
@@ -10089,7 +10262,8 @@ const councilData = [
         "aguaBalnearSalgadaExcelente2011": 0,
         "aguaBalnearSalgadaExcelente2021": 0,
         "superficieArdida2011": 0,
-        "superficieArdida2021": 0
+        "superficieArdida2021": 0,
+        "beneficioFiscal2023": 0.025
     },
     {
         "unidadeTerritorial": "Município",
@@ -10147,7 +10321,8 @@ const councilData = [
         "aguaBalnearSalgadaExcelente2011": 0,
         "aguaBalnearSalgadaExcelente2021": 0,
         "superficieArdida2011": 0,
-        "superficieArdida2021": 0
+        "superficieArdida2021": 0,
+        "beneficioFiscal2023": 0.025
     },
     {
         "unidadeTerritorial": "Município",
@@ -10205,7 +10380,8 @@ const councilData = [
         "aguaBalnearSalgadaExcelente2011": 0,
         "aguaBalnearSalgadaExcelente2021": 0,
         "superficieArdida2011": 0.1,
-        "superficieArdida2021": 0
+        "superficieArdida2021": 0,
+        "beneficioFiscal2023": 0
     },
     {
         "unidadeTerritorial": "NUTS III",
@@ -10263,7 +10439,8 @@ const councilData = [
         "aguaBalnearSalgadaExcelente2011": 0,
         "aguaBalnearSalgadaExcelente2021": 0,
         "superficieArdida2011": 0.1,
-        "superficieArdida2021": 0
+        "superficieArdida2021": 0,
+        "beneficioFiscal2023": 0
     },
     {
         "unidadeTerritorial": "Município",
@@ -10321,7 +10498,8 @@ const councilData = [
         "aguaBalnearSalgadaExcelente2011": 0,
         "aguaBalnearSalgadaExcelente2021": 0,
         "superficieArdida2011": 0.2,
-        "superficieArdida2021": 0
+        "superficieArdida2021": 0,
+        "beneficioFiscal2023": 0.0050000000000000044
     },
     {
         "unidadeTerritorial": "Município",
@@ -10379,7 +10557,8 @@ const councilData = [
         "aguaBalnearSalgadaExcelente2011": 0,
         "aguaBalnearSalgadaExcelente2021": 0,
         "superficieArdida2011": 0.2,
-        "superficieArdida2021": 0
+        "superficieArdida2021": 0,
+        "beneficioFiscal2023": 0
     },
     {
         "unidadeTerritorial": "Município",
@@ -10437,7 +10616,8 @@ const councilData = [
         "aguaBalnearSalgadaExcelente2011": 0,
         "aguaBalnearSalgadaExcelente2021": 0,
         "superficieArdida2011": 0.1,
-        "superficieArdida2021": 0.3
+        "superficieArdida2021": 0.3,
+        "beneficioFiscal2023": 0
     },
     {
         "unidadeTerritorial": "Município",
@@ -10495,7 +10675,8 @@ const councilData = [
         "aguaBalnearSalgadaExcelente2011": 0,
         "aguaBalnearSalgadaExcelente2021": 0,
         "superficieArdida2011": 0,
-        "superficieArdida2021": 0
+        "superficieArdida2021": 0,
+        "beneficioFiscal2023": 0
     },
     {
         "unidadeTerritorial": "Município",
@@ -10553,7 +10734,8 @@ const councilData = [
         "aguaBalnearSalgadaExcelente2011": 0,
         "aguaBalnearSalgadaExcelente2021": 0,
         "superficieArdida2011": 0.1,
-        "superficieArdida2021": 0
+        "superficieArdida2021": 0,
+        "beneficioFiscal2023": 0.04
     },
     {
         "unidadeTerritorial": "Município",
@@ -10611,7 +10793,8 @@ const councilData = [
         "aguaBalnearSalgadaExcelente2011": 0,
         "aguaBalnearSalgadaExcelente2021": 0,
         "superficieArdida2011": 0,
-        "superficieArdida2021": 0
+        "superficieArdida2021": 0,
+        "beneficioFiscal2023": 0.010000000000000002
     },
     {
         "unidadeTerritorial": "Município",
@@ -10669,7 +10852,8 @@ const councilData = [
         "aguaBalnearSalgadaExcelente2011": 0,
         "aguaBalnearSalgadaExcelente2021": 0,
         "superficieArdida2011": 0.1,
-        "superficieArdida2021": 0.1
+        "superficieArdida2021": 0.1,
+        "beneficioFiscal2023": 0
     },
     {
         "unidadeTerritorial": "Município",
@@ -10727,7 +10911,8 @@ const councilData = [
         "aguaBalnearSalgadaExcelente2011": 0,
         "aguaBalnearSalgadaExcelente2021": 0,
         "superficieArdida2011": 0.1,
-        "superficieArdida2021": 0.1
+        "superficieArdida2021": 0.1,
+        "beneficioFiscal2023": 0
     },
     {
         "unidadeTerritorial": "Município",
@@ -10785,7 +10970,8 @@ const councilData = [
         "aguaBalnearSalgadaExcelente2011": 0,
         "aguaBalnearSalgadaExcelente2021": 0,
         "superficieArdida2011": 0,
-        "superficieArdida2021": 0.1
+        "superficieArdida2021": 0.1,
+        "beneficioFiscal2023": 0.015
     },
     {
         "unidadeTerritorial": "Município",
@@ -10843,7 +11029,8 @@ const councilData = [
         "aguaBalnearSalgadaExcelente2011": 0,
         "aguaBalnearSalgadaExcelente2021": 0,
         "superficieArdida2011": 0.1,
-        "superficieArdida2021": 0.1
+        "superficieArdida2021": 0.1,
+        "beneficioFiscal2023": 0.010000000000000002
     },
     {
         "unidadeTerritorial": "Município",
@@ -10901,7 +11088,8 @@ const councilData = [
         "aguaBalnearSalgadaExcelente2011": 0,
         "aguaBalnearSalgadaExcelente2021": 0,
         "superficieArdida2011": 0.3,
-        "superficieArdida2021": 0
+        "superficieArdida2021": 0,
+        "beneficioFiscal2023": 0
     },
     {
         "unidadeTerritorial": "Município",
@@ -10959,7 +11147,8 @@ const councilData = [
         "aguaBalnearSalgadaExcelente2011": 0,
         "aguaBalnearSalgadaExcelente2021": 0,
         "superficieArdida2011": 0,
-        "superficieArdida2021": 0
+        "superficieArdida2021": 0,
+        "beneficioFiscal2023": 0.025
     },
     {
         "unidadeTerritorial": "Município",
@@ -11017,7 +11206,8 @@ const councilData = [
         "aguaBalnearSalgadaExcelente2011": 0,
         "aguaBalnearSalgadaExcelente2021": 0,
         "superficieArdida2011": 0,
-        "superficieArdida2021": 0
+        "superficieArdida2021": 0,
+        "beneficioFiscal2023": 0.0050000000000000044
     },
     {
         "unidadeTerritorial": "NUTS III",
@@ -11075,7 +11265,8 @@ const councilData = [
         "aguaBalnearSalgadaExcelente2011": 0,
         "aguaBalnearSalgadaExcelente2021": 0,
         "superficieArdida2011": 2,
-        "superficieArdida2021": 0.2
+        "superficieArdida2021": 0.2,
+        "beneficioFiscal2023": 0.010000000000000002
     },
     {
         "unidadeTerritorial": "Município",
@@ -11133,7 +11324,8 @@ const councilData = [
         "aguaBalnearSalgadaExcelente2011": 0,
         "aguaBalnearSalgadaExcelente2021": 0,
         "superficieArdida2011": 0.6,
-        "superficieArdida2021": 0.1
+        "superficieArdida2021": 0.1,
+        "beneficioFiscal2023": 0.05
     },
     {
         "unidadeTerritorial": "Município",
@@ -11191,7 +11383,8 @@ const councilData = [
         "aguaBalnearSalgadaExcelente2011": 0,
         "aguaBalnearSalgadaExcelente2021": 0,
         "superficieArdida2011": 0.1,
-        "superficieArdida2021": 0
+        "superficieArdida2021": 0,
+        "beneficioFiscal2023": 0.025
     },
     {
         "unidadeTerritorial": "Município",
@@ -11249,7 +11442,8 @@ const councilData = [
         "aguaBalnearSalgadaExcelente2011": 0,
         "aguaBalnearSalgadaExcelente2021": 0,
         "superficieArdida2011": 2.2,
-        "superficieArdida2021": 0
+        "superficieArdida2021": 0,
+        "beneficioFiscal2023": 0.010000000000000002
     },
     {
         "unidadeTerritorial": "Município",
@@ -11307,7 +11501,8 @@ const councilData = [
         "aguaBalnearSalgadaExcelente2011": 0,
         "aguaBalnearSalgadaExcelente2021": 0,
         "superficieArdida2011": 0.5,
-        "superficieArdida2021": 0.1
+        "superficieArdida2021": 0.1,
+        "beneficioFiscal2023": 0
     },
     {
         "unidadeTerritorial": "Município",
@@ -11365,7 +11560,8 @@ const councilData = [
         "aguaBalnearSalgadaExcelente2011": 0,
         "aguaBalnearSalgadaExcelente2021": 0,
         "superficieArdida2011": 2.5,
-        "superficieArdida2021": 0.1
+        "superficieArdida2021": 0.1,
+        "beneficioFiscal2023": 0.05
     },
     {
         "unidadeTerritorial": "Município",
@@ -11423,7 +11619,8 @@ const councilData = [
         "aguaBalnearSalgadaExcelente2011": 0,
         "aguaBalnearSalgadaExcelente2021": 0,
         "superficieArdida2011": 0.9,
-        "superficieArdida2021": 0
+        "superficieArdida2021": 0,
+        "beneficioFiscal2023": 0
     },
     {
         "unidadeTerritorial": "Município",
@@ -11481,7 +11678,8 @@ const councilData = [
         "aguaBalnearSalgadaExcelente2011": 0,
         "aguaBalnearSalgadaExcelente2021": 0,
         "superficieArdida2011": 0.2,
-        "superficieArdida2021": 0.1
+        "superficieArdida2021": 0.1,
+        "beneficioFiscal2023": 0
     },
     {
         "unidadeTerritorial": "Município",
@@ -11539,7 +11737,8 @@ const councilData = [
         "aguaBalnearSalgadaExcelente2011": 0,
         "aguaBalnearSalgadaExcelente2021": 0,
         "superficieArdida2011": 6.2,
-        "superficieArdida2021": 0
+        "superficieArdida2021": 0,
+        "beneficioFiscal2023": 0
     },
     {
         "unidadeTerritorial": "Município",
@@ -11597,7 +11796,8 @@ const councilData = [
         "aguaBalnearSalgadaExcelente2011": 0,
         "aguaBalnearSalgadaExcelente2021": 0,
         "superficieArdida2011": 2,
-        "superficieArdida2021": 0
+        "superficieArdida2021": 0,
+        "beneficioFiscal2023": 0.0050000000000000044
     },
     {
         "unidadeTerritorial": "Município",
@@ -11655,7 +11855,8 @@ const councilData = [
         "aguaBalnearSalgadaExcelente2011": 0,
         "aguaBalnearSalgadaExcelente2021": 0,
         "superficieArdida2011": 0,
-        "superficieArdida2021": 0
+        "superficieArdida2021": 0,
+        "beneficioFiscal2023": 0.010000000000000002
     },
     {
         "unidadeTerritorial": "Município",
@@ -11713,7 +11914,8 @@ const councilData = [
         "aguaBalnearSalgadaExcelente2011": 0,
         "aguaBalnearSalgadaExcelente2021": 0,
         "superficieArdida2011": 4,
-        "superficieArdida2021": 0.1
+        "superficieArdida2021": 0.1,
+        "beneficioFiscal2023": 0
     },
     {
         "unidadeTerritorial": "Município",
@@ -11771,7 +11973,8 @@ const councilData = [
         "aguaBalnearSalgadaExcelente2011": 0,
         "aguaBalnearSalgadaExcelente2021": 0,
         "superficieArdida2011": 5.2,
-        "superficieArdida2021": 0.8
+        "superficieArdida2021": 0.8,
+        "beneficioFiscal2023": 0
     },
     {
         "unidadeTerritorial": "Município",
@@ -11829,7 +12032,8 @@ const councilData = [
         "aguaBalnearSalgadaExcelente2011": 0,
         "aguaBalnearSalgadaExcelente2021": 0,
         "superficieArdida2011": 1.8,
-        "superficieArdida2021": 0.6
+        "superficieArdida2021": 0.6,
+        "beneficioFiscal2023": 0.05
     },
     {
         "unidadeTerritorial": "Município",
@@ -11887,7 +12091,8 @@ const councilData = [
         "aguaBalnearSalgadaExcelente2011": 0,
         "aguaBalnearSalgadaExcelente2021": 0,
         "superficieArdida2011": 0.4,
-        "superficieArdida2021": 0.8
+        "superficieArdida2021": 0.8,
+        "beneficioFiscal2023": 0.020000000000000004
     },
     {
         "unidadeTerritorial": "Município",
@@ -11945,7 +12150,8 @@ const councilData = [
         "aguaBalnearSalgadaExcelente2011": 0,
         "aguaBalnearSalgadaExcelente2021": 0,
         "superficieArdida2011": 3.6,
-        "superficieArdida2021": 0
+        "superficieArdida2021": 0,
+        "beneficioFiscal2023": 0.05
     },
     {
         "unidadeTerritorial": "NUTS II",
@@ -12003,7 +12209,8 @@ const councilData = [
         "aguaBalnearSalgadaExcelente2011": 87.3,
         "aguaBalnearSalgadaExcelente2021": 94.9,
         "superficieArdida2011": 0.3,
-        "superficieArdida2021": 0.1
+        "superficieArdida2021": 0.1,
+        "beneficioFiscal2023": 0.020000000000000004
     },
     {
         "unidadeTerritorial": "NUTS III",
@@ -12061,7 +12268,8 @@ const councilData = [
         "aguaBalnearSalgadaExcelente2011": 87.3,
         "aguaBalnearSalgadaExcelente2021": 94.9,
         "superficieArdida2011": 0.3,
-        "superficieArdida2021": 0.1
+        "superficieArdida2021": 0.1,
+        "beneficioFiscal2023": 0.020000000000000004
     },
     {
         "unidadeTerritorial": "Município",
@@ -12119,7 +12327,8 @@ const councilData = [
         "aguaBalnearSalgadaExcelente2011": 0,
         "aguaBalnearSalgadaExcelente2021": 0,
         "superficieArdida2011": 0,
-        "superficieArdida2021": 0
+        "superficieArdida2021": 0,
+        "beneficioFiscal2023": 0.010000000000000002
     },
     {
         "unidadeTerritorial": "Município",
@@ -12177,7 +12386,8 @@ const councilData = [
         "aguaBalnearSalgadaExcelente2011": 100,
         "aguaBalnearSalgadaExcelente2021": 100,
         "superficieArdida2011": 0.1,
-        "superficieArdida2021": 0
+        "superficieArdida2021": 0,
+        "beneficioFiscal2023": 0.015
     },
     {
         "unidadeTerritorial": "Município",
@@ -12235,7 +12445,8 @@ const councilData = [
         "aguaBalnearSalgadaExcelente2011": 0,
         "aguaBalnearSalgadaExcelente2021": 0,
         "superficieArdida2011": 0.3,
-        "superficieArdida2021": 0
+        "superficieArdida2021": 0,
+        "beneficioFiscal2023": 0.012000000000000004
     },
     {
         "unidadeTerritorial": "Município",
@@ -12293,7 +12504,8 @@ const councilData = [
         "aguaBalnearSalgadaExcelente2011": 0,
         "aguaBalnearSalgadaExcelente2021": 0,
         "superficieArdida2011": 0.2,
-        "superficieArdida2021": 0.1
+        "superficieArdida2021": 0.1,
+        "beneficioFiscal2023": 0
     },
     {
         "unidadeTerritorial": "Município",
@@ -12351,7 +12563,8 @@ const councilData = [
         "aguaBalnearSalgadaExcelente2011": 93.3,
         "aguaBalnearSalgadaExcelente2021": 92.3,
         "superficieArdida2011": 0.3,
-        "superficieArdida2021": 0
+        "superficieArdida2021": 0,
+        "beneficioFiscal2023": 0
     },
     {
         "unidadeTerritorial": "Município",
@@ -12409,7 +12622,8 @@ const councilData = [
         "aguaBalnearSalgadaExcelente2011": 0,
         "aguaBalnearSalgadaExcelente2021": 0,
         "superficieArdida2011": 0,
-        "superficieArdida2021": 0
+        "superficieArdida2021": 0,
+        "beneficioFiscal2023": 0.035
     },
     {
         "unidadeTerritorial": "Município",
@@ -12467,7 +12681,8 @@ const councilData = [
         "aguaBalnearSalgadaExcelente2011": 0,
         "aguaBalnearSalgadaExcelente2021": 0,
         "superficieArdida2011": 0.8,
-        "superficieArdida2021": 0.5
+        "superficieArdida2021": 0.5,
+        "beneficioFiscal2023": 0.0020000000000000018
     },
     {
         "unidadeTerritorial": "Município",
@@ -12525,7 +12740,8 @@ const councilData = [
         "aguaBalnearSalgadaExcelente2011": 71.4,
         "aguaBalnearSalgadaExcelente2021": 87.5,
         "superficieArdida2011": 1,
-        "superficieArdida2021": 0
+        "superficieArdida2021": 0,
+        "beneficioFiscal2023": 0.010000000000000002
     },
     {
         "unidadeTerritorial": "Município",
@@ -12583,7 +12799,8 @@ const councilData = [
         "aguaBalnearSalgadaExcelente2011": 0,
         "aguaBalnearSalgadaExcelente2021": 0,
         "superficieArdida2011": 0.2,
-        "superficieArdida2021": 0.1
+        "superficieArdida2021": 0.1,
+        "beneficioFiscal2023": 0.0050000000000000044
     },
     {
         "unidadeTerritorial": "Município",
@@ -12641,7 +12858,8 @@ const councilData = [
         "aguaBalnearSalgadaExcelente2011": 0,
         "aguaBalnearSalgadaExcelente2021": 0,
         "superficieArdida2011": 0,
-        "superficieArdida2021": 0
+        "superficieArdida2021": 0,
+        "beneficioFiscal2023": 0.030000000000000002
     },
     {
         "unidadeTerritorial": "Município",
@@ -12699,7 +12917,8 @@ const councilData = [
         "aguaBalnearSalgadaExcelente2011": 0,
         "aguaBalnearSalgadaExcelente2021": 0,
         "superficieArdida2011": 1.3,
-        "superficieArdida2021": 0.4
+        "superficieArdida2021": 0.4,
+        "beneficioFiscal2023": 0
     },
     {
         "unidadeTerritorial": "Município",
@@ -12757,7 +12976,8 @@ const councilData = [
         "aguaBalnearSalgadaExcelente2011": 0,
         "aguaBalnearSalgadaExcelente2021": 100,
         "superficieArdida2011": 0.2,
-        "superficieArdida2021": 0
+        "superficieArdida2021": 0,
+        "beneficioFiscal2023": 0.0030000000000000027
     },
     {
         "unidadeTerritorial": "Município",
@@ -12815,7 +13035,8 @@ const councilData = [
         "aguaBalnearSalgadaExcelente2011": 0,
         "aguaBalnearSalgadaExcelente2021": 0,
         "superficieArdida2011": 0.2,
-        "superficieArdida2021": 0.1
+        "superficieArdida2021": 0.1,
+        "beneficioFiscal2023": 0
     },
     {
         "unidadeTerritorial": "Município",
@@ -12873,7 +13094,8 @@ const councilData = [
         "aguaBalnearSalgadaExcelente2011": 0,
         "aguaBalnearSalgadaExcelente2021": 0,
         "superficieArdida2011": 0.6,
-        "superficieArdida2021": 0
+        "superficieArdida2021": 0,
+        "beneficioFiscal2023": 0
     },
     {
         "unidadeTerritorial": "Município",
@@ -12931,7 +13153,8 @@ const councilData = [
         "aguaBalnearSalgadaExcelente2011": 80,
         "aguaBalnearSalgadaExcelente2021": 100,
         "superficieArdida2011": 0,
-        "superficieArdida2021": 0
+        "superficieArdida2021": 0,
+        "beneficioFiscal2023": 0
     },
     {
         "unidadeTerritorial": "Município",
@@ -12989,7 +13212,8 @@ const councilData = [
         "aguaBalnearSalgadaExcelente2011": 80,
         "aguaBalnearSalgadaExcelente2021": 100,
         "superficieArdida2011": 0.2,
-        "superficieArdida2021": 0.1
+        "superficieArdida2021": 0.1,
+        "beneficioFiscal2023": 0.010000000000000002
     },
     {
         "unidadeTerritorial": "Município",
@@ -13047,7 +13271,8 @@ const councilData = [
         "aguaBalnearSalgadaExcelente2011": 80,
         "aguaBalnearSalgadaExcelente2021": 83.3,
         "superficieArdida2011": 0.7,
-        "superficieArdida2021": 0.2
+        "superficieArdida2021": 0.2,
+        "beneficioFiscal2023": 0.012500000000000004
     },
     {
         "unidadeTerritorial": "Município",
@@ -13105,7 +13330,8 @@ const councilData = [
         "aguaBalnearSalgadaExcelente2011": 0,
         "aguaBalnearSalgadaExcelente2021": 0,
         "superficieArdida2011": 0.2,
-        "superficieArdida2021": 0
+        "superficieArdida2021": 0,
+        "beneficioFiscal2023": 0
     },
     {
         "unidadeTerritorial": "NUTS II",
@@ -13163,7 +13389,8 @@ const councilData = [
         "aguaBalnearSalgadaExcelente2011": 96,
         "aguaBalnearSalgadaExcelente2021": 100,
         "superficieArdida2011": 0.1,
-        "superficieArdida2021": 0.1
+        "superficieArdida2021": 0.1,
+        "beneficioFiscal2023": 0.0020000000000000018
     },
     {
         "unidadeTerritorial": "NUTS III",
@@ -13221,7 +13448,8 @@ const councilData = [
         "aguaBalnearSalgadaExcelente2011": 96,
         "aguaBalnearSalgadaExcelente2021": 100,
         "superficieArdida2011": 0,
-        "superficieArdida2021": 0.2
+        "superficieArdida2021": 0.2,
+        "beneficioFiscal2023": 0.0020000000000000018
     },
     {
         "unidadeTerritorial": "Município",
@@ -13279,7 +13507,8 @@ const councilData = [
         "aguaBalnearSalgadaExcelente2011": 0,
         "aguaBalnearSalgadaExcelente2021": 0,
         "superficieArdida2011": 0,
-        "superficieArdida2021": 0
+        "superficieArdida2021": 0,
+        "beneficioFiscal2023": 0.010000000000000002
     },
     {
         "unidadeTerritorial": "Município",
@@ -13337,7 +13566,8 @@ const councilData = [
         "aguaBalnearSalgadaExcelente2011": 100,
         "aguaBalnearSalgadaExcelente2021": 100,
         "superficieArdida2011": 0,
-        "superficieArdida2021": 0
+        "superficieArdida2021": 0,
+        "beneficioFiscal2023": 0
     },
     {
         "unidadeTerritorial": "Município",
@@ -13395,7 +13625,8 @@ const councilData = [
         "aguaBalnearSalgadaExcelente2011": 85.7,
         "aguaBalnearSalgadaExcelente2021": 100,
         "superficieArdida2011": 0,
-        "superficieArdida2021": 0.6
+        "superficieArdida2021": 0.6,
+        "beneficioFiscal2023": 0.015
     },
     {
         "unidadeTerritorial": "Município",
@@ -13453,7 +13684,8 @@ const councilData = [
         "aguaBalnearSalgadaExcelente2011": 100,
         "aguaBalnearSalgadaExcelente2021": 100,
         "superficieArdida2011": 0,
-        "superficieArdida2021": 0.1
+        "superficieArdida2021": 0.1,
+        "beneficioFiscal2023": 0
     },
     {
         "unidadeTerritorial": "Município",
@@ -13511,7 +13743,8 @@ const councilData = [
         "aguaBalnearSalgadaExcelente2011": 100,
         "aguaBalnearSalgadaExcelente2021": 100,
         "superficieArdida2011": 0,
-        "superficieArdida2021": 0
+        "superficieArdida2021": 0,
+        "beneficioFiscal2023": 0.012500000000000004
     },
     {
         "unidadeTerritorial": "NUTS III",
@@ -13569,7 +13802,8 @@ const councilData = [
         "aguaBalnearSalgadaExcelente2011": 0,
         "aguaBalnearSalgadaExcelente2021": 0,
         "superficieArdida2011": 0.1,
-        "superficieArdida2021": 0.1
+        "superficieArdida2021": 0.1,
+        "beneficioFiscal2023": 0
     },
     {
         "unidadeTerritorial": "Município",
@@ -13627,7 +13861,8 @@ const councilData = [
         "aguaBalnearSalgadaExcelente2011": 0,
         "aguaBalnearSalgadaExcelente2021": 0,
         "superficieArdida2011": 0.2,
-        "superficieArdida2021": 0.5
+        "superficieArdida2021": 0.5,
+        "beneficioFiscal2023": 0
     },
     {
         "unidadeTerritorial": "Município",
@@ -13685,7 +13920,8 @@ const councilData = [
         "aguaBalnearSalgadaExcelente2011": 0,
         "aguaBalnearSalgadaExcelente2021": 0,
         "superficieArdida2011": 0,
-        "superficieArdida2021": 0.1
+        "superficieArdida2021": 0.1,
+        "beneficioFiscal2023": 0.010000000000000002
     },
     {
         "unidadeTerritorial": "Município",
@@ -13743,7 +13979,8 @@ const councilData = [
         "aguaBalnearSalgadaExcelente2011": 0,
         "aguaBalnearSalgadaExcelente2021": 0,
         "superficieArdida2011": 0.1,
-        "superficieArdida2021": 0
+        "superficieArdida2021": 0,
+        "beneficioFiscal2023": 0.010000000000000002
     },
     {
         "unidadeTerritorial": "Município",
@@ -13801,7 +14038,8 @@ const councilData = [
         "aguaBalnearSalgadaExcelente2011": 0,
         "aguaBalnearSalgadaExcelente2021": 0,
         "superficieArdida2011": 0,
-        "superficieArdida2021": 0
+        "superficieArdida2021": 0,
+        "beneficioFiscal2023": 0
     },
     {
         "unidadeTerritorial": "Município",
@@ -13859,7 +14097,8 @@ const councilData = [
         "aguaBalnearSalgadaExcelente2011": 0,
         "aguaBalnearSalgadaExcelente2021": 0,
         "superficieArdida2011": 0.2,
-        "superficieArdida2021": 0.1
+        "superficieArdida2021": 0.1,
+        "beneficioFiscal2023": 0
     },
     {
         "unidadeTerritorial": "Município",
@@ -13917,7 +14156,8 @@ const councilData = [
         "aguaBalnearSalgadaExcelente2011": 0,
         "aguaBalnearSalgadaExcelente2021": 0,
         "superficieArdida2011": 0.2,
-        "superficieArdida2021": 0.1
+        "superficieArdida2021": 0.1,
+        "beneficioFiscal2023": 0.010000000000000002
     },
     {
         "unidadeTerritorial": "Município",
@@ -13975,7 +14215,8 @@ const councilData = [
         "aguaBalnearSalgadaExcelente2011": 0,
         "aguaBalnearSalgadaExcelente2021": 0,
         "superficieArdida2011": 0.2,
-        "superficieArdida2021": 0
+        "superficieArdida2021": 0,
+        "beneficioFiscal2023": 0
     },
     {
         "unidadeTerritorial": "Município",
@@ -14033,7 +14274,8 @@ const councilData = [
         "aguaBalnearSalgadaExcelente2011": 0,
         "aguaBalnearSalgadaExcelente2021": 0,
         "superficieArdida2011": 0.1,
-        "superficieArdida2021": 0
+        "superficieArdida2021": 0,
+        "beneficioFiscal2023": 0
     },
     {
         "unidadeTerritorial": "Município",
@@ -14091,7 +14333,8 @@ const councilData = [
         "aguaBalnearSalgadaExcelente2011": 0,
         "aguaBalnearSalgadaExcelente2021": 0,
         "superficieArdida2011": 0,
-        "superficieArdida2021": 0
+        "superficieArdida2021": 0,
+        "beneficioFiscal2023": 0.0175
     },
     {
         "unidadeTerritorial": "Município",
@@ -14149,7 +14392,8 @@ const councilData = [
         "aguaBalnearSalgadaExcelente2011": 0,
         "aguaBalnearSalgadaExcelente2021": 0,
         "superficieArdida2011": 0,
-        "superficieArdida2021": 0.1
+        "superficieArdida2021": 0.1,
+        "beneficioFiscal2023": 0.025
     },
     {
         "unidadeTerritorial": "Município",
@@ -14207,7 +14451,8 @@ const councilData = [
         "aguaBalnearSalgadaExcelente2011": 0,
         "aguaBalnearSalgadaExcelente2021": 0,
         "superficieArdida2011": 0,
-        "superficieArdida2021": 0
+        "superficieArdida2021": 0,
+        "beneficioFiscal2023": 0.025
     },
     {
         "unidadeTerritorial": "Município",
@@ -14265,7 +14510,8 @@ const councilData = [
         "aguaBalnearSalgadaExcelente2011": 0,
         "aguaBalnearSalgadaExcelente2021": 0,
         "superficieArdida2011": 0,
-        "superficieArdida2021": 0
+        "superficieArdida2021": 0,
+        "beneficioFiscal2023": 0
     },
     {
         "unidadeTerritorial": "Município",
@@ -14323,7 +14569,8 @@ const councilData = [
         "aguaBalnearSalgadaExcelente2011": 0,
         "aguaBalnearSalgadaExcelente2021": 0,
         "superficieArdida2011": 0.7,
-        "superficieArdida2021": 0
+        "superficieArdida2021": 0,
+        "beneficioFiscal2023": 0
     },
     {
         "unidadeTerritorial": "NUTS III",
@@ -14381,7 +14628,8 @@ const councilData = [
         "aguaBalnearSalgadaExcelente2011": 0,
         "aguaBalnearSalgadaExcelente2021": 0,
         "superficieArdida2011": 0.1,
-        "superficieArdida2021": 0.1
+        "superficieArdida2021": 0.1,
+        "beneficioFiscal2023": 0
     },
     {
         "unidadeTerritorial": "Município",
@@ -14439,7 +14687,8 @@ const councilData = [
         "aguaBalnearSalgadaExcelente2011": 0,
         "aguaBalnearSalgadaExcelente2021": 0,
         "superficieArdida2011": 0,
-        "superficieArdida2021": 0.1
+        "superficieArdida2021": 0.1,
+        "beneficioFiscal2023": 0
     },
     {
         "unidadeTerritorial": "Município",
@@ -14497,7 +14746,8 @@ const councilData = [
         "aguaBalnearSalgadaExcelente2011": 0,
         "aguaBalnearSalgadaExcelente2021": 0,
         "superficieArdida2011": 0.1,
-        "superficieArdida2021": 0
+        "superficieArdida2021": 0,
+        "beneficioFiscal2023": 0
     },
     {
         "unidadeTerritorial": "Município",
@@ -14555,7 +14805,8 @@ const councilData = [
         "aguaBalnearSalgadaExcelente2011": 0,
         "aguaBalnearSalgadaExcelente2021": 0,
         "superficieArdida2011": 0.2,
-        "superficieArdida2021": 0.2
+        "superficieArdida2021": 0.2,
+        "beneficioFiscal2023": 0
     },
     {
         "unidadeTerritorial": "Município",
@@ -14613,7 +14864,8 @@ const councilData = [
         "aguaBalnearSalgadaExcelente2011": 0,
         "aguaBalnearSalgadaExcelente2021": 0,
         "superficieArdida2011": 0,
-        "superficieArdida2021": 0.1
+        "superficieArdida2021": 0.1,
+        "beneficioFiscal2023": 0
     },
     {
         "unidadeTerritorial": "Município",
@@ -14671,7 +14923,8 @@ const councilData = [
         "aguaBalnearSalgadaExcelente2011": 0,
         "aguaBalnearSalgadaExcelente2021": 0,
         "superficieArdida2011": 0,
-        "superficieArdida2021": 0.1
+        "superficieArdida2021": 0.1,
+        "beneficioFiscal2023": 0
     },
     {
         "unidadeTerritorial": "Município",
@@ -14729,7 +14982,8 @@ const councilData = [
         "aguaBalnearSalgadaExcelente2011": 0,
         "aguaBalnearSalgadaExcelente2021": 0,
         "superficieArdida2011": 0,
-        "superficieArdida2021": 0
+        "superficieArdida2021": 0,
+        "beneficioFiscal2023": 0.035
     },
     {
         "unidadeTerritorial": "Município",
@@ -14787,7 +15041,8 @@ const councilData = [
         "aguaBalnearSalgadaExcelente2011": 0,
         "aguaBalnearSalgadaExcelente2021": 0,
         "superficieArdida2011": 0,
-        "superficieArdida2021": 0
+        "superficieArdida2021": 0,
+        "beneficioFiscal2023": 0.020000000000000004
     },
     {
         "unidadeTerritorial": "Município",
@@ -14845,7 +15100,8 @@ const councilData = [
         "aguaBalnearSalgadaExcelente2011": 0,
         "aguaBalnearSalgadaExcelente2021": 0,
         "superficieArdida2011": 0,
-        "superficieArdida2021": 0
+        "superficieArdida2021": 0,
+        "beneficioFiscal2023": 0.025
     },
     {
         "unidadeTerritorial": "Município",
@@ -14903,7 +15159,8 @@ const councilData = [
         "aguaBalnearSalgadaExcelente2011": 0,
         "aguaBalnearSalgadaExcelente2021": 0,
         "superficieArdida2011": 0.1,
-        "superficieArdida2021": 0
+        "superficieArdida2021": 0,
+        "beneficioFiscal2023": 0.0020000000000000018
     },
     {
         "unidadeTerritorial": "Município",
@@ -14961,7 +15218,8 @@ const councilData = [
         "aguaBalnearSalgadaExcelente2011": 0,
         "aguaBalnearSalgadaExcelente2021": 0,
         "superficieArdida2011": 0.1,
-        "superficieArdida2021": 0.5
+        "superficieArdida2021": 0.5,
+        "beneficioFiscal2023": 0
     },
     {
         "unidadeTerritorial": "Município",
@@ -15019,7 +15277,8 @@ const councilData = [
         "aguaBalnearSalgadaExcelente2011": 0,
         "aguaBalnearSalgadaExcelente2021": 0,
         "superficieArdida2011": 0.4,
-        "superficieArdida2021": 0.1
+        "superficieArdida2021": 0.1,
+        "beneficioFiscal2023": 0.0050000000000000044
     },
     {
         "unidadeTerritorial": "NUTS III",
@@ -15077,7 +15336,8 @@ const councilData = [
         "aguaBalnearSalgadaExcelente2011": 0,
         "aguaBalnearSalgadaExcelente2021": 0,
         "superficieArdida2011": 0.1,
-        "superficieArdida2021": 0.1
+        "superficieArdida2021": 0.1,
+        "beneficioFiscal2023": 0.025
     },
     {
         "unidadeTerritorial": "Município",
@@ -15135,7 +15395,8 @@ const councilData = [
         "aguaBalnearSalgadaExcelente2011": 0,
         "aguaBalnearSalgadaExcelente2021": 0,
         "superficieArdida2011": 0.1,
-        "superficieArdida2021": 0.1
+        "superficieArdida2021": 0.1,
+        "beneficioFiscal2023": 0.025
     },
     {
         "unidadeTerritorial": "Município",
@@ -15193,7 +15454,8 @@ const councilData = [
         "aguaBalnearSalgadaExcelente2011": 0,
         "aguaBalnearSalgadaExcelente2021": 0,
         "superficieArdida2011": 0,
-        "superficieArdida2021": 0
+        "superficieArdida2021": 0,
+        "beneficioFiscal2023": 0.05
     },
     {
         "unidadeTerritorial": "Município",
@@ -15251,7 +15513,8 @@ const councilData = [
         "aguaBalnearSalgadaExcelente2011": 0,
         "aguaBalnearSalgadaExcelente2021": 0,
         "superficieArdida2011": 0,
-        "superficieArdida2021": 0
+        "superficieArdida2021": 0,
+        "beneficioFiscal2023": 0
     },
     {
         "unidadeTerritorial": "Município",
@@ -15309,7 +15572,8 @@ const councilData = [
         "aguaBalnearSalgadaExcelente2011": 0,
         "aguaBalnearSalgadaExcelente2021": 0,
         "superficieArdida2011": 0.2,
-        "superficieArdida2021": 0.1
+        "superficieArdida2021": 0.1,
+        "beneficioFiscal2023": 0
     },
     {
         "unidadeTerritorial": "Município",
@@ -15367,7 +15631,8 @@ const councilData = [
         "aguaBalnearSalgadaExcelente2011": 0,
         "aguaBalnearSalgadaExcelente2021": 0,
         "superficieArdida2011": 0,
-        "superficieArdida2021": 0
+        "superficieArdida2021": 0,
+        "beneficioFiscal2023": 0.025
     },
     {
         "unidadeTerritorial": "Município",
@@ -15425,7 +15690,8 @@ const councilData = [
         "aguaBalnearSalgadaExcelente2011": 0,
         "aguaBalnearSalgadaExcelente2021": 0,
         "superficieArdida2011": 0.1,
-        "superficieArdida2021": 0
+        "superficieArdida2021": 0,
+        "beneficioFiscal2023": 0.020000000000000004
     },
     {
         "unidadeTerritorial": "Município",
@@ -15483,7 +15749,8 @@ const councilData = [
         "aguaBalnearSalgadaExcelente2011": 0,
         "aguaBalnearSalgadaExcelente2021": 0,
         "superficieArdida2011": 0.1,
-        "superficieArdida2021": 0.4
+        "superficieArdida2021": 0.4,
+        "beneficioFiscal2023": 0
     },
     {
         "unidadeTerritorial": "Município",
@@ -15541,7 +15808,8 @@ const councilData = [
         "aguaBalnearSalgadaExcelente2011": 0,
         "aguaBalnearSalgadaExcelente2021": 0,
         "superficieArdida2011": 0,
-        "superficieArdida2021": 0.1
+        "superficieArdida2021": 0.1,
+        "beneficioFiscal2023": 0.05
     },
     {
         "unidadeTerritorial": "Município",
@@ -15599,7 +15867,8 @@ const councilData = [
         "aguaBalnearSalgadaExcelente2011": 0,
         "aguaBalnearSalgadaExcelente2021": 0,
         "superficieArdida2011": 0,
-        "superficieArdida2021": 0
+        "superficieArdida2021": 0,
+        "beneficioFiscal2023": 0.05
     },
     {
         "unidadeTerritorial": "Município",
@@ -15657,7 +15926,8 @@ const councilData = [
         "aguaBalnearSalgadaExcelente2011": 0,
         "aguaBalnearSalgadaExcelente2021": 0,
         "superficieArdida2011": 0,
-        "superficieArdida2021": 0
+        "superficieArdida2021": 0,
+        "beneficioFiscal2023": 0.010000000000000002
     },
     {
         "unidadeTerritorial": "Município",
@@ -15715,7 +15985,8 @@ const councilData = [
         "aguaBalnearSalgadaExcelente2011": 0,
         "aguaBalnearSalgadaExcelente2021": 0,
         "superficieArdida2011": 0,
-        "superficieArdida2021": 0
+        "superficieArdida2021": 0,
+        "beneficioFiscal2023": 0
     },
     {
         "unidadeTerritorial": "Município",
@@ -15773,7 +16044,8 @@ const councilData = [
         "aguaBalnearSalgadaExcelente2011": 0,
         "aguaBalnearSalgadaExcelente2021": 0,
         "superficieArdida2011": 0.3,
-        "superficieArdida2021": 0
+        "superficieArdida2021": 0,
+        "beneficioFiscal2023": 0.025
     },
     {
         "unidadeTerritorial": "Município",
@@ -15831,7 +16103,8 @@ const councilData = [
         "aguaBalnearSalgadaExcelente2011": 0,
         "aguaBalnearSalgadaExcelente2021": 0,
         "superficieArdida2011": 0,
-        "superficieArdida2021": 0
+        "superficieArdida2021": 0,
+        "beneficioFiscal2023": 0.015
     },
     {
         "unidadeTerritorial": "Município",
@@ -15889,7 +16162,8 @@ const councilData = [
         "aguaBalnearSalgadaExcelente2011": 0,
         "aguaBalnearSalgadaExcelente2021": 0,
         "superficieArdida2011": 0,
-        "superficieArdida2021": 0
+        "superficieArdida2021": 0,
+        "beneficioFiscal2023": 0.012500000000000004
     },
     {
         "unidadeTerritorial": "Município",
@@ -15947,7 +16221,8 @@ const councilData = [
         "aguaBalnearSalgadaExcelente2011": 0,
         "aguaBalnearSalgadaExcelente2021": 0,
         "superficieArdida2011": 0,
-        "superficieArdida2021": 0.7
+        "superficieArdida2021": 0.7,
+        "beneficioFiscal2023": 0
     },
     {
         "unidadeTerritorial": "NUTS III",
@@ -16005,7 +16280,8 @@ const councilData = [
         "aguaBalnearSalgadaExcelente2011": 0,
         "aguaBalnearSalgadaExcelente2021": 0,
         "superficieArdida2011": 0.1,
-        "superficieArdida2021": 0.1
+        "superficieArdida2021": 0.1,
+        "beneficioFiscal2023": 0.0020000000000000018
     },
     {
         "unidadeTerritorial": "Município",
@@ -16063,7 +16339,8 @@ const councilData = [
         "aguaBalnearSalgadaExcelente2011": 0,
         "aguaBalnearSalgadaExcelente2021": 0,
         "superficieArdida2011": 0.1,
-        "superficieArdida2021": 0.1
+        "superficieArdida2021": 0.1,
+        "beneficioFiscal2023": 0
     },
     {
         "unidadeTerritorial": "Município",
@@ -16121,7 +16398,8 @@ const councilData = [
         "aguaBalnearSalgadaExcelente2011": 0,
         "aguaBalnearSalgadaExcelente2021": 0,
         "superficieArdida2011": 0,
-        "superficieArdida2021": 0.1
+        "superficieArdida2021": 0.1,
+        "beneficioFiscal2023": 0
     },
     {
         "unidadeTerritorial": "Município",
@@ -16179,7 +16457,8 @@ const councilData = [
         "aguaBalnearSalgadaExcelente2011": 0,
         "aguaBalnearSalgadaExcelente2021": 0,
         "superficieArdida2011": 0,
-        "superficieArdida2021": 0.3
+        "superficieArdida2021": 0.3,
+        "beneficioFiscal2023": 0.010000000000000002
     },
     {
         "unidadeTerritorial": "Município",
@@ -16237,7 +16516,8 @@ const councilData = [
         "aguaBalnearSalgadaExcelente2011": 0,
         "aguaBalnearSalgadaExcelente2021": 0,
         "superficieArdida2011": 0,
-        "superficieArdida2021": 0
+        "superficieArdida2021": 0,
+        "beneficioFiscal2023": 0.010000000000000002
     },
     {
         "unidadeTerritorial": "Município",
@@ -16295,7 +16575,8 @@ const councilData = [
         "aguaBalnearSalgadaExcelente2011": 0,
         "aguaBalnearSalgadaExcelente2021": 0,
         "superficieArdida2011": 0,
-        "superficieArdida2021": 0.1
+        "superficieArdida2021": 0.1,
+        "beneficioFiscal2023": 0.010000000000000002
     },
     {
         "unidadeTerritorial": "Município",
@@ -16353,7 +16634,8 @@ const councilData = [
         "aguaBalnearSalgadaExcelente2011": 0,
         "aguaBalnearSalgadaExcelente2021": 0,
         "superficieArdida2011": 0.1,
-        "superficieArdida2021": 0.1
+        "superficieArdida2021": 0.1,
+        "beneficioFiscal2023": 0.015
     },
     {
         "unidadeTerritorial": "Município",
@@ -16411,7 +16693,8 @@ const councilData = [
         "aguaBalnearSalgadaExcelente2011": 0,
         "aguaBalnearSalgadaExcelente2021": 0,
         "superficieArdida2011": 0,
-        "superficieArdida2021": 0.2
+        "superficieArdida2021": 0.2,
+        "beneficioFiscal2023": 0
     },
     {
         "unidadeTerritorial": "Município",
@@ -16469,7 +16752,8 @@ const councilData = [
         "aguaBalnearSalgadaExcelente2011": 0,
         "aguaBalnearSalgadaExcelente2021": 0,
         "superficieArdida2011": 0,
-        "superficieArdida2021": 0.1
+        "superficieArdida2021": 0.1,
+        "beneficioFiscal2023": 0.020000000000000004
     },
     {
         "unidadeTerritorial": "Município",
@@ -16527,7 +16811,8 @@ const councilData = [
         "aguaBalnearSalgadaExcelente2011": 0,
         "aguaBalnearSalgadaExcelente2021": 0,
         "superficieArdida2011": 0.5,
-        "superficieArdida2021": 0
+        "superficieArdida2021": 0,
+        "beneficioFiscal2023": 0
     },
     {
         "unidadeTerritorial": "Município",
@@ -16585,7 +16870,8 @@ const councilData = [
         "aguaBalnearSalgadaExcelente2011": 0,
         "aguaBalnearSalgadaExcelente2021": 0,
         "superficieArdida2011": 0.1,
-        "superficieArdida2021": 0
+        "superficieArdida2021": 0,
+        "beneficioFiscal2023": 0.020000000000000004
     },
     {
         "unidadeTerritorial": "Município",
@@ -16643,7 +16929,8 @@ const councilData = [
         "aguaBalnearSalgadaExcelente2011": 0,
         "aguaBalnearSalgadaExcelente2021": 0,
         "superficieArdida2011": 0.1,
-        "superficieArdida2021": 0.5
+        "superficieArdida2021": 0.5,
+        "beneficioFiscal2023": 0
     },
     {
         "unidadeTerritorial": "Município",
@@ -16701,7 +16988,8 @@ const councilData = [
         "aguaBalnearSalgadaExcelente2011": 0,
         "aguaBalnearSalgadaExcelente2021": 0,
         "superficieArdida2011": 0,
-        "superficieArdida2021": 0
+        "superficieArdida2021": 0,
+        "beneficioFiscal2023": 0
     },
     {
         "unidadeTerritorial": "Município",
@@ -16759,7 +17047,8 @@ const councilData = [
         "aguaBalnearSalgadaExcelente2011": 0,
         "aguaBalnearSalgadaExcelente2021": 0,
         "superficieArdida2011": 0.3,
-        "superficieArdida2021": 0.3
+        "superficieArdida2021": 0.3,
+        "beneficioFiscal2023": 0.025
     },
     {
         "unidadeTerritorial": "Município",
@@ -16817,7 +17106,8 @@ const councilData = [
         "aguaBalnearSalgadaExcelente2011": 0,
         "aguaBalnearSalgadaExcelente2021": 0,
         "superficieArdida2011": 0.1,
-        "superficieArdida2021": 0.1
+        "superficieArdida2021": 0.1,
+        "beneficioFiscal2023": 0.010000000000000002
     },
     {
         "unidadeTerritorial": "NUTS II",
@@ -16875,7 +17165,8 @@ const councilData = [
         "aguaBalnearSalgadaExcelente2011": 92.3,
         "aguaBalnearSalgadaExcelente2021": 96.3,
         "superficieArdida2011": 0,
-        "superficieArdida2021": 1.9
+        "superficieArdida2021": 1.9,
+        "beneficioFiscal2023": 0
     },
     {
         "unidadeTerritorial": "NUTS III",
@@ -16933,7 +17224,8 @@ const councilData = [
         "aguaBalnearSalgadaExcelente2011": 92.3,
         "aguaBalnearSalgadaExcelente2021": 96.3,
         "superficieArdida2011": 0,
-        "superficieArdida2021": 1.9
+        "superficieArdida2021": 1.9,
+        "beneficioFiscal2023": 0
     },
     {
         "unidadeTerritorial": "Município",
@@ -16991,7 +17283,8 @@ const councilData = [
         "aguaBalnearSalgadaExcelente2011": 92,
         "aguaBalnearSalgadaExcelente2021": 100,
         "superficieArdida2011": 0.1,
-        "superficieArdida2021": 0
+        "superficieArdida2021": 0,
+        "beneficioFiscal2023": 0.05
     },
     {
         "unidadeTerritorial": "Município",
@@ -17049,7 +17342,8 @@ const councilData = [
         "aguaBalnearSalgadaExcelente2011": 0,
         "aguaBalnearSalgadaExcelente2021": 0,
         "superficieArdida2011": 0,
-        "superficieArdida2021": 0
+        "superficieArdida2021": 0,
+        "beneficioFiscal2023": 0.05
     },
     {
         "unidadeTerritorial": "Município",
@@ -17107,7 +17401,8 @@ const councilData = [
         "aguaBalnearSalgadaExcelente2011": 100,
         "aguaBalnearSalgadaExcelente2021": 100,
         "superficieArdida2011": 0,
-        "superficieArdida2021": 0
+        "superficieArdida2021": 0,
+        "beneficioFiscal2023": 0.05
     },
     {
         "unidadeTerritorial": "Município",
@@ -17165,7 +17460,8 @@ const councilData = [
         "aguaBalnearSalgadaExcelente2011": 100,
         "aguaBalnearSalgadaExcelente2021": 100,
         "superficieArdida2011": 0,
-        "superficieArdida2021": 6.2
+        "superficieArdida2021": 6.2,
+        "beneficioFiscal2023": 0.025
     },
     {
         "unidadeTerritorial": "Município",
@@ -17223,7 +17519,8 @@ const councilData = [
         "aguaBalnearSalgadaExcelente2011": 100,
         "aguaBalnearSalgadaExcelente2021": 100,
         "superficieArdida2011": 0,
-        "superficieArdida2021": 0
+        "superficieArdida2021": 0,
+        "beneficioFiscal2023": 0
     },
     {
         "unidadeTerritorial": "Município",
@@ -17281,7 +17578,8 @@ const councilData = [
         "aguaBalnearSalgadaExcelente2011": 80,
         "aguaBalnearSalgadaExcelente2021": 90,
         "superficieArdida2011": 0.1,
-        "superficieArdida2021": 0
+        "superficieArdida2021": 0,
+        "beneficioFiscal2023": 0.010000000000000002
     },
     {
         "unidadeTerritorial": "Município",
@@ -17339,7 +17637,8 @@ const councilData = [
         "aguaBalnearSalgadaExcelente2011": 83.3,
         "aguaBalnearSalgadaExcelente2021": 50,
         "superficieArdida2011": 0,
-        "superficieArdida2021": 0.5
+        "superficieArdida2021": 0.5,
+        "beneficioFiscal2023": 0.05
     },
     {
         "unidadeTerritorial": "Município",
@@ -17397,7 +17696,8 @@ const councilData = [
         "aguaBalnearSalgadaExcelente2011": 100,
         "aguaBalnearSalgadaExcelente2021": 100,
         "superficieArdida2011": 0,
-        "superficieArdida2021": 0.6
+        "superficieArdida2021": 0.6,
+        "beneficioFiscal2023": 0.05
     },
     {
         "unidadeTerritorial": "Município",
@@ -17455,7 +17755,8 @@ const councilData = [
         "aguaBalnearSalgadaExcelente2011": 0,
         "aguaBalnearSalgadaExcelente2021": 0,
         "superficieArdida2011": 0,
-        "superficieArdida2021": 1.6
+        "superficieArdida2021": 1.6,
+        "beneficioFiscal2023": 0.025
     },
     {
         "unidadeTerritorial": "Município",
@@ -17513,7 +17814,8 @@ const councilData = [
         "aguaBalnearSalgadaExcelente2011": 75,
         "aguaBalnearSalgadaExcelente2021": 100,
         "superficieArdida2011": 0,
-        "superficieArdida2021": 0
+        "superficieArdida2021": 0,
+        "beneficioFiscal2023": 0.05
     },
     {
         "unidadeTerritorial": "Município",
@@ -17571,7 +17873,8 @@ const councilData = [
         "aguaBalnearSalgadaExcelente2011": 87.5,
         "aguaBalnearSalgadaExcelente2021": 100,
         "superficieArdida2011": 0.1,
-        "superficieArdida2021": 7.1
+        "superficieArdida2021": 7.1,
+        "beneficioFiscal2023": 0
     },
     {
         "unidadeTerritorial": "Município",
@@ -17629,7 +17932,8 @@ const councilData = [
         "aguaBalnearSalgadaExcelente2011": 0,
         "aguaBalnearSalgadaExcelente2021": 0,
         "superficieArdida2011": 0,
-        "superficieArdida2021": 0
+        "superficieArdida2021": 0,
+        "beneficioFiscal2023": 0.0025000000000000022
     },
     {
         "unidadeTerritorial": "Município",
@@ -17687,7 +17991,8 @@ const councilData = [
         "aguaBalnearSalgadaExcelente2011": 100,
         "aguaBalnearSalgadaExcelente2021": 100,
         "superficieArdida2011": 0,
-        "superficieArdida2021": 0
+        "superficieArdida2021": 0,
+        "beneficioFiscal2023": 0.025
     },
     {
         "unidadeTerritorial": "Município",
@@ -17745,7 +18050,8 @@ const councilData = [
         "aguaBalnearSalgadaExcelente2011": 100,
         "aguaBalnearSalgadaExcelente2021": 100,
         "superficieArdida2011": 0,
-        "superficieArdida2021": 4.9
+        "superficieArdida2021": 4.9,
+        "beneficioFiscal2023": 0.025
     },
     {
         "unidadeTerritorial": "Município",
@@ -17803,7 +18109,8 @@ const councilData = [
         "aguaBalnearSalgadaExcelente2011": 92.3,
         "aguaBalnearSalgadaExcelente2021": 100,
         "superficieArdida2011": 0,
-        "superficieArdida2021": 0
+        "superficieArdida2021": 0,
+        "beneficioFiscal2023": 0.05
     },
     {
         "unidadeTerritorial": "Município",
@@ -17861,7 +18168,8 @@ const councilData = [
         "aguaBalnearSalgadaExcelente2011": 100,
         "aguaBalnearSalgadaExcelente2021": 100,
         "superficieArdida2011": 0.1,
-        "superficieArdida2021": 31.5
+        "superficieArdida2021": 31.5,
+        "beneficioFiscal2023": 0
     },
     {
         "unidadeTerritorial": "NUTS I",
@@ -17919,7 +18227,8 @@ const councilData = [
         "aguaBalnearSalgadaExcelente2011": 84.5,
         "aguaBalnearSalgadaExcelente2021": 87.8,
         "superficieArdida2011": 0,
-        "superficieArdida2021": 0
+        "superficieArdida2021": 0,
+        "beneficioFiscal2023": 0.020000000000000004
     },
     {
         "unidadeTerritorial": "NUTS II",
@@ -17977,7 +18286,8 @@ const councilData = [
         "aguaBalnearSalgadaExcelente2011": 84.5,
         "aguaBalnearSalgadaExcelente2021": 87.8,
         "superficieArdida2011": 0,
-        "superficieArdida2021": 0
+        "superficieArdida2021": 0,
+        "beneficioFiscal2023": 0.020000000000000004
     },
     {
         "unidadeTerritorial": "NUTS III",
@@ -18035,7 +18345,8 @@ const councilData = [
         "aguaBalnearSalgadaExcelente2011": 100,
         "aguaBalnearSalgadaExcelente2021": 100,
         "superficieArdida2011": 0,
-        "superficieArdida2021": 0
+        "superficieArdida2021": 0,
+        "beneficioFiscal2023": 0.025
     },
     {
         "unidadeTerritorial": "Município",
@@ -18093,7 +18404,8 @@ const councilData = [
         "aguaBalnearSalgadaExcelente2011": 100,
         "aguaBalnearSalgadaExcelente2021": 100,
         "superficieArdida2011": 0,
-        "superficieArdida2021": 0
+        "superficieArdida2021": 0,
+        "beneficioFiscal2023": 0
     },
     {
         "unidadeTerritorial": "NUTS III",
@@ -18151,7 +18463,8 @@ const councilData = [
         "aguaBalnearSalgadaExcelente2011": 65,
         "aguaBalnearSalgadaExcelente2021": 0,
         "superficieArdida2011": 0,
-        "superficieArdida2021": 0
+        "superficieArdida2021": 0,
+        "beneficioFiscal2023": 0.025
     },
     {
         "unidadeTerritorial": "Município",
@@ -18209,7 +18522,8 @@ const councilData = [
         "aguaBalnearSalgadaExcelente2011": 66.7,
         "aguaBalnearSalgadaExcelente2021": 100,
         "superficieArdida2011": 0,
-        "superficieArdida2021": 0
+        "superficieArdida2021": 0,
+        "beneficioFiscal2023": 0
     },
     {
         "unidadeTerritorial": "Município",
@@ -18267,7 +18581,8 @@ const councilData = [
         "aguaBalnearSalgadaExcelente2011": 0,
         "aguaBalnearSalgadaExcelente2021": 0,
         "superficieArdida2011": 0,
-        "superficieArdida2021": 0
+        "superficieArdida2021": 0,
+        "beneficioFiscal2023": 0
     },
     {
         "unidadeTerritorial": "Município",
@@ -18325,7 +18640,8 @@ const councilData = [
         "aguaBalnearSalgadaExcelente2011": 57.1,
         "aguaBalnearSalgadaExcelente2021": 87.5,
         "superficieArdida2011": 0,
-        "superficieArdida2021": 0
+        "superficieArdida2021": 0,
+        "beneficioFiscal2023": 0.015
     },
     {
         "unidadeTerritorial": "Município",
@@ -18383,7 +18699,8 @@ const councilData = [
         "aguaBalnearSalgadaExcelente2011": 100,
         "aguaBalnearSalgadaExcelente2021": 75,
         "superficieArdida2011": 0,
-        "superficieArdida2021": 0
+        "superficieArdida2021": 0,
+        "beneficioFiscal2023": 0.025
     },
     {
         "unidadeTerritorial": "Município",
@@ -18441,7 +18758,8 @@ const councilData = [
         "aguaBalnearSalgadaExcelente2011": 50,
         "aguaBalnearSalgadaExcelente2021": 100,
         "superficieArdida2011": 0,
-        "superficieArdida2021": 0
+        "superficieArdida2021": 0,
+        "beneficioFiscal2023": 0.030000000000000002
     },
     {
         "unidadeTerritorial": "Município",
@@ -18499,7 +18817,8 @@ const councilData = [
         "aguaBalnearSalgadaExcelente2011": 80,
         "aguaBalnearSalgadaExcelente2021": 80,
         "superficieArdida2011": 0,
-        "superficieArdida2021": 0
+        "superficieArdida2021": 0,
+        "beneficioFiscal2023": 0
     },
     {
         "unidadeTerritorial": "NUTS III",
@@ -18557,7 +18876,8 @@ const councilData = [
         "aguaBalnearSalgadaExcelente2011": 100,
         "aguaBalnearSalgadaExcelente2021": 0,
         "superficieArdida2011": 0,
-        "superficieArdida2021": 0
+        "superficieArdida2021": 0,
+        "beneficioFiscal2023": 0.025
     },
     {
         "unidadeTerritorial": "Município",
@@ -18615,7 +18935,8 @@ const councilData = [
         "aguaBalnearSalgadaExcelente2011": 100,
         "aguaBalnearSalgadaExcelente2021": 100,
         "superficieArdida2011": 0,
-        "superficieArdida2021": 0
+        "superficieArdida2021": 0,
+        "beneficioFiscal2023": 0
     },
     {
         "unidadeTerritorial": "Município",
@@ -18673,7 +18994,8 @@ const councilData = [
         "aguaBalnearSalgadaExcelente2011": 100,
         "aguaBalnearSalgadaExcelente2021": 88.9,
         "superficieArdida2011": 0,
-        "superficieArdida2021": 0
+        "superficieArdida2021": 0,
+        "beneficioFiscal2023": 0.05
     },
     {
         "unidadeTerritorial": "NUTS III",
@@ -18731,7 +19053,8 @@ const councilData = [
         "aguaBalnearSalgadaExcelente2011": 50,
         "aguaBalnearSalgadaExcelente2021": 100,
         "superficieArdida2011": 0,
-        "superficieArdida2021": 0
+        "superficieArdida2021": 0,
+        "beneficioFiscal2023": 0.025
     },
     {
         "unidadeTerritorial": "Município",
@@ -18789,7 +19112,8 @@ const councilData = [
         "aguaBalnearSalgadaExcelente2011": 50,
         "aguaBalnearSalgadaExcelente2021": 100,
         "superficieArdida2011": 0,
-        "superficieArdida2021": 0
+        "superficieArdida2021": 0,
+        "beneficioFiscal2023": 0.020000000000000004
     },
     {
         "unidadeTerritorial": "NUTS III",
@@ -18847,7 +19171,8 @@ const councilData = [
         "aguaBalnearSalgadaExcelente2011": 100,
         "aguaBalnearSalgadaExcelente2021": 100,
         "superficieArdida2011": 0,
-        "superficieArdida2021": 0
+        "superficieArdida2021": 0,
+        "beneficioFiscal2023": 0.025
     },
     {
         "unidadeTerritorial": "Município",
@@ -18905,7 +19230,8 @@ const councilData = [
         "aguaBalnearSalgadaExcelente2011": 100,
         "aguaBalnearSalgadaExcelente2021": 100,
         "superficieArdida2011": 0,
-        "superficieArdida2021": 0
+        "superficieArdida2021": 0,
+        "beneficioFiscal2023": 0.05
     },
     {
         "unidadeTerritorial": "Município",
@@ -18963,7 +19289,8 @@ const councilData = [
         "aguaBalnearSalgadaExcelente2011": 100,
         "aguaBalnearSalgadaExcelente2021": 100,
         "superficieArdida2011": 0,
-        "superficieArdida2021": 0
+        "superficieArdida2021": 0,
+        "beneficioFiscal2023": 0.05
     },
     {
         "unidadeTerritorial": "NUTS III",
@@ -19021,7 +19348,8 @@ const councilData = [
         "aguaBalnearSalgadaExcelente2011": 100,
         "aguaBalnearSalgadaExcelente2021": 0,
         "superficieArdida2011": 0,
-        "superficieArdida2021": 0
+        "superficieArdida2021": 0,
+        "beneficioFiscal2023": 0.025
     },
     {
         "unidadeTerritorial": "Município",
@@ -19079,7 +19407,8 @@ const councilData = [
         "aguaBalnearSalgadaExcelente2011": 100,
         "aguaBalnearSalgadaExcelente2021": 66.7,
         "superficieArdida2011": 0,
-        "superficieArdida2021": 0
+        "superficieArdida2021": 0,
+        "beneficioFiscal2023": 0
     },
     {
         "unidadeTerritorial": "Município",
@@ -19137,7 +19466,8 @@ const councilData = [
         "aguaBalnearSalgadaExcelente2011": 100,
         "aguaBalnearSalgadaExcelente2021": 100,
         "superficieArdida2011": 0,
-        "superficieArdida2021": 0
+        "superficieArdida2021": 0,
+        "beneficioFiscal2023": 0.010000000000000002
     },
     {
         "unidadeTerritorial": "Município",
@@ -19195,7 +19525,8 @@ const councilData = [
         "aguaBalnearSalgadaExcelente2011": 100,
         "aguaBalnearSalgadaExcelente2021": 50,
         "superficieArdida2011": 0,
-        "superficieArdida2021": 0
+        "superficieArdida2021": 0,
+        "beneficioFiscal2023": 0.0025000000000000022
     },
     {
         "unidadeTerritorial": "NUTS III",
@@ -19253,7 +19584,8 @@ const councilData = [
         "aguaBalnearSalgadaExcelente2011": 100,
         "aguaBalnearSalgadaExcelente2021": 100,
         "superficieArdida2011": 0,
-        "superficieArdida2021": 0
+        "superficieArdida2021": 0,
+        "beneficioFiscal2023": 0.025
     },
     {
         "unidadeTerritorial": "Município",
@@ -19311,7 +19643,8 @@ const councilData = [
         "aguaBalnearSalgadaExcelente2011": 100,
         "aguaBalnearSalgadaExcelente2021": 100,
         "superficieArdida2011": 0,
-        "superficieArdida2021": 0
+        "superficieArdida2021": 0,
+        "beneficioFiscal2023": 0.0050000000000000044
     },
     {
         "unidadeTerritorial": "NUTS III",
@@ -19369,7 +19702,8 @@ const councilData = [
         "aguaBalnearSalgadaExcelente2011": 100,
         "aguaBalnearSalgadaExcelente2021": 100,
         "superficieArdida2011": 0,
-        "superficieArdida2021": 0
+        "superficieArdida2021": 0,
+        "beneficioFiscal2023": 0.025
     },
     {
         "unidadeTerritorial": "Município",
@@ -19427,7 +19761,8 @@ const councilData = [
         "aguaBalnearSalgadaExcelente2011": 100,
         "aguaBalnearSalgadaExcelente2021": 100,
         "superficieArdida2011": 0,
-        "superficieArdida2021": 0
+        "superficieArdida2021": 0,
+        "beneficioFiscal2023": 0.030000000000000002
     },
     {
         "unidadeTerritorial": "Município",
@@ -19485,7 +19820,8 @@ const councilData = [
         "aguaBalnearSalgadaExcelente2011": 100,
         "aguaBalnearSalgadaExcelente2021": 100,
         "superficieArdida2011": 0,
-        "superficieArdida2021": 0
+        "superficieArdida2021": 0,
+        "beneficioFiscal2023": 0.05
     },
     {
         "unidadeTerritorial": "NUTS III",
@@ -19543,7 +19879,8 @@ const councilData = [
         "aguaBalnearSalgadaExcelente2011": 100,
         "aguaBalnearSalgadaExcelente2021": 100,
         "superficieArdida2011": 0,
-        "superficieArdida2021": 0
+        "superficieArdida2021": 0,
+        "beneficioFiscal2023": 0.025
     },
     {
         "unidadeTerritorial": "Município",
@@ -19601,7 +19938,8 @@ const councilData = [
         "aguaBalnearSalgadaExcelente2011": 100,
         "aguaBalnearSalgadaExcelente2021": 100,
         "superficieArdida2011": 0,
-        "superficieArdida2021": 0
+        "superficieArdida2021": 0,
+        "beneficioFiscal2023": 0
     },
     {
         "unidadeTerritorial": "NUTS I",
@@ -19659,7 +19997,8 @@ const councilData = [
         "aguaBalnearSalgadaExcelente2011": 80.6,
         "aguaBalnearSalgadaExcelente2021": 84.2,
         "superficieArdida2011": 0,
-        "superficieArdida2021": 0
+        "superficieArdida2021": 0,
+        "beneficioFiscal2023": 0.020000000000000004
     },
     {
         "unidadeTerritorial": "NUTS II",
@@ -19717,7 +20056,8 @@ const councilData = [
         "aguaBalnearSalgadaExcelente2011": 80.6,
         "aguaBalnearSalgadaExcelente2021": 84.2,
         "superficieArdida2011": 0,
-        "superficieArdida2021": 0
+        "superficieArdida2021": 0,
+        "beneficioFiscal2023": 0.020000000000000004
     },
     {
         "unidadeTerritorial": "NUTS III",
@@ -19775,7 +20115,8 @@ const councilData = [
         "aguaBalnearSalgadaExcelente2011": 75,
         "aguaBalnearSalgadaExcelente2021": 0,
         "superficieArdida2011": 0,
-        "superficieArdida2021": 0
+        "superficieArdida2021": 0,
+        "beneficioFiscal2023": 0.025
     },
     {
         "unidadeTerritorial": "Município",
@@ -19833,7 +20174,8 @@ const councilData = [
         "aguaBalnearSalgadaExcelente2011": 0,
         "aguaBalnearSalgadaExcelente2021": 100,
         "superficieArdida2011": 0,
-        "superficieArdida2021": 0
+        "superficieArdida2021": 0,
+        "beneficioFiscal2023": 0.05
     },
     {
         "unidadeTerritorial": "Município",
@@ -19891,7 +20233,8 @@ const councilData = [
         "aguaBalnearSalgadaExcelente2011": 0,
         "aguaBalnearSalgadaExcelente2021": 25,
         "superficieArdida2011": 0,
-        "superficieArdida2021": 0
+        "superficieArdida2021": 0,
+        "beneficioFiscal2023": 0.015
     },
     {
         "unidadeTerritorial": "Município",
@@ -19949,7 +20292,8 @@ const councilData = [
         "aguaBalnearSalgadaExcelente2011": 75,
         "aguaBalnearSalgadaExcelente2021": 80,
         "superficieArdida2011": 0,
-        "superficieArdida2021": 0
+        "superficieArdida2021": 0,
+        "beneficioFiscal2023": 0.030000000000000002
     },
     {
         "unidadeTerritorial": "Município",
@@ -20007,7 +20351,8 @@ const councilData = [
         "aguaBalnearSalgadaExcelente2011": 66.7,
         "aguaBalnearSalgadaExcelente2021": 71.4,
         "superficieArdida2011": 0,
-        "superficieArdida2021": 0
+        "superficieArdida2021": 0,
+        "beneficioFiscal2023": 0.010000000000000002
     },
     {
         "unidadeTerritorial": "Município",
@@ -20065,7 +20410,8 @@ const councilData = [
         "aguaBalnearSalgadaExcelente2011": 50,
         "aguaBalnearSalgadaExcelente2021": 100,
         "superficieArdida2011": 0,
-        "superficieArdida2021": 0
+        "superficieArdida2021": 0,
+        "beneficioFiscal2023": 0.05
     },
     {
         "unidadeTerritorial": "Município",
@@ -20123,7 +20469,8 @@ const councilData = [
         "aguaBalnearSalgadaExcelente2011": 100,
         "aguaBalnearSalgadaExcelente2021": 100,
         "superficieArdida2011": 0,
-        "superficieArdida2021": 0
+        "superficieArdida2021": 0,
+        "beneficioFiscal2023": 0.05
     },
     {
         "unidadeTerritorial": "Município",
@@ -20181,7 +20528,8 @@ const councilData = [
         "aguaBalnearSalgadaExcelente2011": 100,
         "aguaBalnearSalgadaExcelente2021": 100,
         "superficieArdida2011": 0,
-        "superficieArdida2021": 0
+        "superficieArdida2021": 0,
+        "beneficioFiscal2023": 0
     },
     {
         "unidadeTerritorial": "Município",
@@ -20239,7 +20587,8 @@ const councilData = [
         "aguaBalnearSalgadaExcelente2011": 100,
         "aguaBalnearSalgadaExcelente2021": 87.5,
         "superficieArdida2011": 0,
-        "superficieArdida2021": 0
+        "superficieArdida2021": 0,
+        "beneficioFiscal2023": 0.010000000000000002
     },
     {
         "unidadeTerritorial": "Município",
@@ -20297,7 +20646,8 @@ const councilData = [
         "aguaBalnearSalgadaExcelente2011": 100,
         "aguaBalnearSalgadaExcelente2021": 100,
         "superficieArdida2011": 0,
-        "superficieArdida2021": 0
+        "superficieArdida2021": 0,
+        "beneficioFiscal2023": 0.05
     },
     {
         "unidadeTerritorial": "Município",
@@ -20355,7 +20705,8 @@ const councilData = [
         "aguaBalnearSalgadaExcelente2011": 0,
         "aguaBalnearSalgadaExcelente2021": 100,
         "superficieArdida2011": 0,
-        "superficieArdida2021": 0
+        "superficieArdida2021": 0,
+        "beneficioFiscal2023": 0.0025000000000000022
     },
     {
         "unidadeTerritorial": "NUTS III",
@@ -20413,7 +20764,8 @@ const councilData = [
         "aguaBalnearSalgadaExcelente2011": 100,
         "aguaBalnearSalgadaExcelente2021": 88.9,
         "superficieArdida2011": 0,
-        "superficieArdida2021": 0
+        "superficieArdida2021": 0,
+        "beneficioFiscal2023": 0.025
     },
     {
         "unidadeTerritorial": "Município",
@@ -20471,6 +20823,7 @@ const councilData = [
         "aguaBalnearSalgadaExcelente2011": 100,
         "aguaBalnearSalgadaExcelente2021": 88.9,
         "superficieArdida2011": 0,
-        "superficieArdida2021": 0
+        "superficieArdida2021": 0,
+        "beneficioFiscal2023": 0.012500000000000004
     }
 ]
