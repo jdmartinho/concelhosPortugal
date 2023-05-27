@@ -108,6 +108,7 @@ function fillInformation(council) {
   var header2021 = document.createElement('th');
   header2021.innerHTML = '2021';
   header2021.scope = 'col';
+
   tblHeader.appendChild(header2011);
   tblHeader.appendChild(header2021);
   tableToFill.appendChild(tblHeader);
@@ -117,6 +118,7 @@ function fillInformation(council) {
   var tblBody = document.createElement('tbody');
   var x = 2;
   while(x < keys.length) {
+    // Properties
     var headerRow = document.createElement('tr');
     var headerText2011 = document.createElement('td')
     headerText2011.innerHTML = keys[x];
@@ -125,6 +127,7 @@ function fillInformation(council) {
     headerRow.appendChild(headerText2011);
     headerRow.appendChild(headerText2021);
 
+    // Values
     var valuesRow = document.createElement('tr');
     var valuesText2011 = document.createElement('td')
     valuesText2011.innerHTML = council.getByIndex(x);
@@ -138,6 +141,6 @@ function fillInformation(council) {
 
     tableToFill.appendChild(tblBody);
 
-    x=x+2;
+    x = x + 2;
   }
 }

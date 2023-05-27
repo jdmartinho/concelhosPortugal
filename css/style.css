@@ -22,4 +22,13 @@ td {
 
 th {
   text-align: center;
+  position: sticky;
+  top: 40px;
+  background: white;
+}
+
+.sticky {
+  position: sticky;
+  top: 0px;
+  background: white;
 }
