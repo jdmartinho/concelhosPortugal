@@ -15,32 +15,32 @@ var style = {
 
 // Style when hovering
 var hoverStyle = {
-  fill: "#A8BED5",
+  fill: "#1f4b03",
 };
 
 // Styles for tax brackets
 var fivePercent = {
-  fill: "#358205",
+  fill: "#04490c",
 };
 
 var overFourPercent = {
-  fill: "#8FB822",
+  fill: "#0a7400",
 };
 
 var overThreePercent = {
-  fill: "#F3EE00",
+  fill: "#15a708",
 };
 
 var overTwoPercent = {
-  fill: "#D76804",
+  fill: "#04c707",
 };
 
 var overOnePercent = {
-  fill: "#C12818",
+  fill: "#00fb1d",
 };
 
 var overZeroPercent = {
-  fill: "#801A0F",
+  fill: "#caffde",
 };
 
 var animationSpeed = 500;
